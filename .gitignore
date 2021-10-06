@@ -1,7 +1,9 @@
 __pycache__/
 *.pyc
-*.pt
+# *.pt
+*.pdf
 2020/
+atmt36/
 tests/
 tutorials/
 
