@@ -6,6 +6,7 @@ __pycache__/
 atmt36/
 tests/
 tutorials/
+.vscode/
 
 # files for assignment 3
 train_with_bpe_dropout.py
