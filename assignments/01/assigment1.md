@@ -35,13 +35,13 @@ Because it contains both words and meanings that probably weren't present in the
 
 The reference translations of the bible test set actually show very domain-specific words and names (such as *smite*, *myrrh* or *Absolem*), very domain-specific inflections and forms (*thou*, *thee*, *wilt*, *hath*, ...) and very domain-specific phrases (*say something unto someone*, *someone shall do something*, ...). The training data being as restricted as it is, all of the above combined completely derail the model.
 
-With our model, the translations are so far off that it's actually near impossible to link translations and references wihtout using the line number.
+With our model, the translations are so far off that it's actually near impossible to link translations and references without using the line number.
 
 | Line Number | Translation | Reference |
 |--|--|--|
 | 205 | The City of Helsinki pays the: | And said, Hail, King of the Jews! and they smote him with their hands. |
 | 416 | You will be given a job in the country for the same time to be in the country in the country in which the country in which you are in the country in the country. | To crush under foot all the prisoners of the earth, |
-| 205 | And you are planning to take care of the baby and make a business plan for the time and you are planning to make a business.| You shall bring his sons, and put coats on them. |
+| 498 | And you are planning to take care of the baby and make a business plan for the time and you are planning to make a business.| You shall bring his sons, and put coats on them. |
 
 Although we might find semantic parallels (*take care of the baby* <-> *sons, and put coats on them*), these parallels might well be due to chance and confirmation bias.
 
@@ -49,7 +49,7 @@ Although we might find semantic parallels (*take care of the baby* <-> *sons, an
 
 | Word | Meanings | Different Contexts |
 |-|-|-|
-| *Bank* | A place to sit, or a place to deposit money and lose it in the next crisis where no banker will get punished for their nefarious deeds. | If we train a model on data from a landscapin magazine, we might quite possibly only find the meaning of *Bank* as in bench. On the other hand, if trained only on the economy section of the "Frankfurter Allgemeine Zeitung", we might only capture the word sense of *Bank* as, well, a bank (money institute). |
+| *Bank* | A place to sit, or a place to deposit money and lose it in the next crisis where no banker will get punished for their nefarious deeds. | If we train a model on data from a landscaping magazine, we might quite possibly only find the meaning of *Bank* as in bench. On the other hand, if trained only on the economy section of the "Frankfurter Allgemeine Zeitung", we might only capture the word sense of *Bank* as, well, a bank (money institute). |
 | *Himmel* | *Heaven* or *Sky* | If trained on an astronomers notebooks, a model might only know *Himmel* as refering to the (night) sky. But if only trained on the musings of a medieval theologian, the model might only connect *Himmel* with its eschatological sense: *Heaven*.|
 | *hören* | *hear* or *listen* | Here, the choice of translation is mostly conditioned by the immediate (within-sentence) context and not by domain. We expect to find both translations in about the same ratio across domains, so domain-specific training may not help. |
 
