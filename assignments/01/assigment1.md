@@ -37,8 +37,8 @@ The reference translations of the bible test set actually show very domain-speci
 
 With our model, the translations are so far off that it's actually near impossible to link translations and references without using the line number.
 
-| Line number | Translation | Reference |
-|--|--------|--------|
+| Line Number | Translation | Reference |
+|--|--|--|
 | 205 | The City of Helsinki pays the: | And said, Hail, King of the Jews! and they smote him with their hands. |
 | 416 | You will be given a job in the country for the same time to be in the country in the country in which the country in which you are in the country in the country. | To crush under foot all the prisoners of the earth, |
 | 498 | And you are planning to take care of the baby and make a business plan for the time and you are planning to make a business.| You shall bring his sons, and put coats on them. |
