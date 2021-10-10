@@ -1,76 +1,39 @@
-# Assignment 01
+# Assignment 1
+
 *Andreas Säuberli, Niclas Bodenmann*
 
-### 2.2 Training
+## Training
 
-The last line of our training log:
-
-```
-INFO: Epoch 046: loss 5.358 | lr 0.0003 | num_tokens 14.86 | batch_size 1 | grad_norm 52.76 | clip 0.9984                             
-INFO: Epoch 046: valid_loss 4.77 | num_tokens 15.5 | batch_size 500 | valid_perplexity 118
-```
-
-## 3 Evaluating the NMT System
-
-### 3.1 In-domain Evaluation
-
-BLEU: 14.9
+The last lines of our training log:
 
 ```
-{
- "name": "BLEU",
- "score": 14.9,
- "signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0",
- "verbose_score": "35.3/18.2/11.1/7.0 (BP = 1.000 ratio = 1.473 hyp_len = 10248 ref_len = 6957)",
- "nrefs": "1",
- "case": "mixed",
- "eff": "no",
- "tok": "13a",
- "smooth": "exp",
- "version": "2.0.0"
-}
+INFO: Epoch 087: loss 1.986 | lr 0.0003 | num_tokens 14.86 | batch_size 1 | grad_norm 63.93 | clip 0.9862                         
+INFO: Epoch 087: valid_loss 2.61 | num_tokens 15.5 | batch_size 500 | valid_perplexity 13.6
 ```
 
-### 3.2 Out-of-domain Evaluation
+## Evaluation
 
-BLEU: 0.6
+| Metric           | In-domain | Out-of-domain |
+| ---------------- | --------- | ------------- |
+| 1-gram precision | 35.3      | 18.1          |
+| 2-gram precision | 18.2      | 2.2           |
+| 3-gram precision | 11.1      | 0.2           |
+| 4-gram precision | 7.0       | 0.0           |
+| BLEU             | 14.9      | 0.6           |
 
-```
-{
- "name": "BLEU",
- "score": 0.6,
- "signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0",
- "verbose_score": "18.1/2.2/0.2/0.0 (BP = 1.000 ratio = 1.373 hyp_len = 20065 ref_len = 14614)",
- "nrefs": "1",
- "case": "mixed",
- "eff": "no",
- "tok": "13a",
- "smooth": "exp",
- "version": "2.0.0"
-}
-```
+## Question
 
-### 3 Submission
+### What characteristics of the in-domain data could be responsible for the high scores?
 
-#### Table of the Scores
+- Low diversity of data (i.e. small range of vocabulary, structures, and meanings) due to heavily restricted domain
+- Large overlap between train and test sets
+- Many short sentences, which are easier to translate (e.g. headings or contact details)
 
-|                  | In-domain | Out-of-domain |
-|------------------|-----------|---------------|
-| BLEU             |    14.9   |        0.6    |
-| 1-gram precision |      35.3 |    18.1       |
-| 2-gram precision |      18.2 |    2.2        |
-| 3-gram precision |      11.1 |    0.2        |
-| 4-gram precision |      7.0  |    0.0        |
-
-#### What Characteristics of the In-domain data could be responsible for the high scores?
-
-Relatively long sentences in comparison to the reference translations.
-
-#### Why is the out-of-domain test set so much harder to translate?
+### Why is the out-of-domain test set so much harder to translate?
 
 Because it contains both words and meanings that probably weren't present in the training data. This is quite likely, as *infopankki* consists of governmental information while the *bible* is a religious text. 
 
-The reference translations of the bible test set actually show very domain-specific words and names (such as *smite*, *myrrh* or *Absolem*), very domain-specific inflections and forms (*thou*, *thee*, *wilt*, *hath*, ...) and very domain-specific phrases (*say something unto someone*, *someone shall do something*, ...). The model being as simple as it is, all of the above combined completely derail it.
+The reference translations of the bible test set actually show very domain-specific words and names (such as *smite*, *myrrh* or *Absolem*), very domain-specific inflections and forms (*thou*, *thee*, *wilt*, *hath*, ...) and very domain-specific phrases (*say something unto someone*, *someone shall do something*, ...). The training data being as restricted as it is, all of the above combined completely derail the model.
 
 With our model, the translations are so far off that it's actually near impossible to link translations and references wihtout using the line number.
 
@@ -88,12 +51,15 @@ Although we might find semantic parallels (*take care of the baby* <-> *sons, an
 |-|-|-|
 | *Bank* | A place to sit, or a place to deposit money and lose it in the next crisis where no banker will get punished for their nefarious deeds. | If we train a model on data from a landscapin magazine, we might quite possibly only find the meaning of *Bank* as in bench. On the other hand, if trained only on the economy section of the "Frankfurter Allgemeine Zeitung", we might only capture the word sense of *Bank* as, well, a bank (money institute). |
 | *Himmel* | *Heaven* or *Sky* | If trained on an astronomers notebooks, a model might only know *Himmel* as refering to the (night) sky. But if only trained on the musings of a medieval theologian, the model might only connect *Himmel* with its eschatological sense: *Heaven*.|
-| *Bank* ||
+| *hören* | *hear* or *listen* | Here, the choice of translation is mostly conditioned by the immediate (within-sentence) context and not by domain. We expect to find both translations in about the same ratio across domains, so domain-specific training may not help. |
 
 Depending on the domain of data, some word forms might only be used in very specific senses. In consequence, a model training on solely this data will only learn  representations of the words that represent this very specific relationship, possibly ignoring all other meanings the word form has in a broader discourse.
 
 This becomes very apparent in out-of-domain machine translation.
 We can think of a case where the target language might draw a distinction between two different meanings (*A* and *B*) by using different word forms to denote them (*tA* and *tB*). The source language in turn might use a homonym for the same two concepts (*sAB*). If a model is now trained on a domain where only meaning *A* is used, the model only learns the connection (*sAB* -> *tA*). Now, if the out-of-domain meaning *B* is evoked during testing or deployment, the model will still translate *sAB* to *tA*, even though only *tB* would be correct.
 
-We can ensure the right translation only by having a trained human translator. However, we can make the right translation much more likely if we use smartly balanced training data from the some domain(s) where we wish to deploy the system in the future.
+We can ensure the right translation only by having a trained human translator. However, we can make the right translation much more likely if we use smartly balanced training data from the some domain(s) where we wish to deploy the system in the future. There are also methods to "force" the model to always translate a certain word using a pre-defined translation, for example by inserting the translation in the input sentence (Dinu et al. 2019).
 
+## References
+
+- Dinu, G., Mathur, P., Federico, M., & Al-Onaizan, Y. (2019, July). Training Neural Machine Translation to Apply Terminology Constraints. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (pp. 3063-3068).
