@@ -117,6 +117,7 @@ class LSTMEncoder(Seq2SeqEncoder):
         batch_size, src_time_steps = src_tokens.size()
         if self.is_cuda:
             src_tokens =  utils.move_to_cuda(src_tokens)
+            src_lengths =  utils.move_to_cuda(src_lengths)
         src_embeddings = self.embedding(src_tokens)
         _src_embeddings = F.dropout(src_embeddings, p=self.dropout_in, training=self.training)
 
