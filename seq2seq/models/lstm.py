@@ -117,6 +117,7 @@ class LSTMEncoder(Seq2SeqEncoder):
         batch_size, src_time_steps = src_tokens.size()
         if self.is_cuda:
             src_tokens =  utils.move_to_cuda(src_tokens)
+            src_lengths =  utils.move_to_cuda(src_lengths)
         src_embeddings = self.embedding(src_tokens)
         _src_embeddings = F.dropout(src_embeddings, p=self.dropout_in, training=self.training)
 
@@ -124,7 +125,7 @@ class LSTMEncoder(Seq2SeqEncoder):
         src_embeddings = _src_embeddings.transpose(0, 1)
 
         # Pack embedded tokens into a PackedSequence
-        packed_source_embeddings = nn.utils.rnn.pack_padded_sequence(src_embeddings, src_lengths)
+        packed_source_embeddings = nn.utils.rnn.pack_padded_sequence(src_embeddings, src_lengths.cpu())
 
         # Pass source input through the recurrent layer(s)
         packed_outputs, (final_hidden_states, final_cell_states) = self.lstm(packed_source_embeddings)
