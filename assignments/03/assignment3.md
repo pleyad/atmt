@@ -1,5 +1,5 @@
 # Assignment 3
-*Niclas Bodenmann (nibode), Andreas Säuber (OLATNAME)*
+*Niclas Bodenmann (nibode), Andreas Säuberli (asaeub)*
 
 ## Requirements
 
@@ -8,7 +8,7 @@
 - Pre-/Postprocessing scripts
 - PDF Report (2-3 pages with figures)
 
-# 
+
 
 
 ## A detailed description of your experiment setup
