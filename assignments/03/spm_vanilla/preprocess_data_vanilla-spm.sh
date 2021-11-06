@@ -11,7 +11,7 @@ data=$pwd/data
 spm=$1
 
 if [ -z "$1" ]; then
-    echo "Error: Specify path to SentencePiece-model"
+    echo "Error: Specify path WITHOUT FILE EXTENSION"
     exit 1
 fi
 
@@ -34,7 +34,7 @@ cat $data/preprocessed/train.$src.p | perl moses_scripts/truecase.perl --model $
 cat $data/preprocessed/train.$tgt.p | perl moses_scripts/truecase.perl --model $data/preprocessed/tm.$tgt > $data/preprocessed/train.$tgt.prepieced
 
 # check if sentencepiece-model exists, if not, train and save at the specified location
-if ! test -f "$spm"; then
+if ! test -f "$spm.model"; then
     spm_train --input=$data/preprocessed/train.$src.prepieced,$data/preprocessed/train.$tgt.prepieced --user_defined_symbols="&apos;","&quot;","&amp;" --model_prefix=$pwd/$spm --vocab_size=4000 --model_type=bpe
 fi
 
