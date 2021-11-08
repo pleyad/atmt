@@ -21,6 +21,41 @@
 
 ## A suitable presentation and discussion of your results in comparison to the baseline
 
+### Sacrebleu Metrics
+
+#### Baseline
+```
+{
+ "name": "BLEU",
+ "score": 16.8,
+ "signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0",
+ "verbose_score": "44.0/22.1/12.2/6.7 (BP = 1.000 ratio = 1.341 hyp_len = 5218 ref_len = 3892)",
+ "nrefs": "1",
+ "case": "mixed",
+ "eff": "no",
+ "tok": "13a",
+ "smooth": "exp",
+ "version": "2.0.0"
+}
+```
+
+#### Sentencepiece Tokenization
+
+```
+{
+ "name": "BLEU",
+ "score": 15.1,
+ "signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0",
+ "verbose_score": "41.9/20.2/11.1/5.6 (BP = 1.000 ratio = 1.335 hyp_len = 5197 ref_len = 3892)",
+ "nrefs": "1",
+ "case": "mixed",
+ "eff": "no",
+ "tok": "13a",
+ "smooth": "exp",
+ "version": "2.0.0"
+}
+```
+
 - Tables
 - Visualizations
     - Graphs for sentence lengths? (NB)
