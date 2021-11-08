@@ -19,6 +19,15 @@
 - How did you evaluate your models?
 - ...
 
+### Model 1: Sentencepiece
+
+The first model uses bytepair-encoding to preprocess the data. We hoped to capture additional morphological information, which would help with unknown words and therefore improve the baseline model.
+
+Hyperparameters:
+- 4000 symbols.
+- Trained on both the source and target language.
+
+
 ## A suitable presentation and discussion of your results in comparison to the baseline
 
 ### Sacrebleu Metrics
