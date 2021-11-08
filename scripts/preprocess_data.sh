@@ -8,7 +8,7 @@ set -e
 
 raw_data=$1
 # set languages
-src_lang=$2
+src_lang=$2 
 tgt_lang=$3
 
 # set paths
