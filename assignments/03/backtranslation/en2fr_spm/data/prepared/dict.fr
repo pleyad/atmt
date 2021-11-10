@@ -19,7 +19,7 @@
 ▁un 989
 ▁tu 957
 ▁n 947
-▁j 912
+▁j 913
 ▁ce 841
 ▁en 791
 ▁les 754
@@ -836,7 +836,6 @@ he 22
 ▁habitude 22
 ▁prés 22
 rer 22
-▁J 22
 ▁noir 22
 ▁appel 22
 ▁travers 22
@@ -867,6 +866,7 @@ ort 21
 ▁ag 21
 ▁Boston 21
 ▁fini 21
+▁J 21
 ▁montre 21
 ▁cheveux 21
 ▁plutôt 21

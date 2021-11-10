@@ -59,12 +59,12 @@ do
 done
 
 # remove tmp files
-#rm $data/preprocessed/train.$tgt.p
-#rm $data/preprocessed/train.$src.prepieced
-#rm $data/preprocessed/train.$src.p
-#rm $data/preprocessed/train.$tgt.prepieced
-#rm $data/preprocessed/en-10k.p
-#rm $data/preprocessed/en-10k.prepieced
+rm $data/preprocessed/train.$tgt.p
+rm $data/preprocessed/train.$src.prepieced
+rm $data/preprocessed/train.$src.p
+rm $data/preprocessed/train.$tgt.prepieced
+rm $data/preprocessed/en-10k.p
+rm $data/preprocessed/en-10k.prepieced
 
 # preprocess all files for model training
 python preprocess.py --target-lang $tgt --source-lang $src --dest-dir $data/prepared/ --train-prefix $data/preprocessed/train --valid-prefix $data/preprocessed/valid --test-prefix $data/preprocessed/test --tiny-train-prefix $data/preprocessed/tiny_train --threshold-src 1 --threshold-tgt 1 --num-words-src 4000 --num-words-tgt 4000
