@@ -9,7 +9,7 @@ base=$pwd/../../..
 data=$(basename $1)
 data_dir=$(dirname $1)
 lang=$2
-tm=$3
+modelpath=$3
 
 # change into base directory to ensure paths are valid
 cd $base
@@ -26,7 +26,7 @@ cat $1 | perl moses_scripts/normalize-punctuation.perl -l $lang | perl moses_scr
 # perl moses_scripts/train-truecaser.perl --model $data_dir/preprocessed/tm.$tgt --corpus $data_dir/preprocessed/train.$tgt.p
 
 # apply truecase models to splits
-cat $data_dir/preprocessed/$data.p | perl moses_scripts/truecase.perl --model $tm > $data_dir/preprocessed/$data
+cat $data_dir/preprocessed/$data.p | perl moses_scripts/truecase.perl --model $modelpath/preprocessed/tm.$lang > $data_dir/preprocessed/$data
 # cat $data_dir/preprocessed/train.$tgt.p | perl moses_scripts/truecase.perl --model $data_dir/preprocessed/tm.$tgt > $data_dir/preprocessed/train.$tgt
 
 # prepare remaining splits with learned models
@@ -41,6 +41,6 @@ rm $data_dir/preprocessed/$data.p
 # rm $data_dir/preprocessed/train.$tgt.p
 
 # preprocess all files for model training
-# python preprocess.py --target-lang $tgt --source-lang $src --dest-dir $data_dir/prepared/ --train-prefix $data_dir/preprocessed/train --valid-prefix $data_dir/preprocessed/valid --test-prefix $data_dir/preprocessed/test --tiny-train-prefix $data_dir/preprocessed/tiny_train --threshold-src 1 --threshold-tgt 1 --num-words-src 4000 --num-words-tgt 4000
+python preprocess_deployment.py --file-path $1 --source-lang $2 --dest-dir $data_dir/prepared/ --threshold-src 1 --num-words-src 4000 --vocab-src ${modelpath}prepared/dict.$lang
 
 echo "done!"
