@@ -65,6 +65,8 @@ Hyperparameters:
 }
 ```
 
+We noticed that the test set does not contain any unknown words, and therefore there is less reason to apply a subword encoding. This may be an explanation why the sentencepiece tokenization model did not perform better than the baseline.
+
 - Tables
 - Visualizations
     - Graphs for sentence lengths? (NB)
@@ -76,4 +78,3 @@ Hyperparameters:
 
 - What we learned
 - What we would do differently next time
-
