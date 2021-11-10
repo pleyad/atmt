@@ -19,7 +19,7 @@ def get_args():
     parser.add_argument('--seed', default=42, type=int, help='pseudo random number generator seed')
 
     # Add data arguments
-    parser.add_argument('--data', required=True, help='path to data directory')
+    parser.add_argument('--data', required=True, help='path to data file')
     parser.add_argument('--dicts', required=True, help='path to directory containing source and target dictionaries')
     parser.add_argument('--checkpoint-path', required=True, help='path to the model file')
     parser.add_argument('--batch-size', default=1, type=int, help='maximum number of sentences in a batch')
@@ -41,13 +41,13 @@ def main(args):
     # Load dictionaries
     src_dict = Dictionary.load(os.path.join(args.dicts, 'dict.{:s}'.format(args.source_lang)))
     logging.info('Loaded a source dictionary ({:s}) with {:d} words'.format(args.source_lang, len(src_dict)))
-    tgt_dict = Dictionary.load(os.path.join(args.dicts, 'dict.{:s}'.format(args.target_lang)))
-    logging.info('Loaded a target dictionary ({:s}) with {:d} words'.format(args.target_lang, len(tgt_dict)))
+    tgt_dict = Dictionary.load(os.path.join(args.dicts, 'dict.{:s}'.format(args.source_lang)))
+    logging.info('Loaded a target dictionary ({:s}) with {:d} words'.format(args.source_lang, len(tgt_dict)))
 
     # Load dataset
     test_dataset = Seq2SeqDataset(
-        src_file=os.path.join(args.data, 'test.{:s}'.format(args.source_lang)),
-        tgt_file=os.path.join(args.data, 'test.{:s}'.format(args.target_lang)),
+        src_file=os.path.join(args.data),
+        tgt_file=os.path.join(args.data),
         src_dict=src_dict, tgt_dict=tgt_dict)
     test_loader = torch.utils.data.DataLoader(test_dataset, num_workers=1, collate_fn=test_dataset.collater,
                                               batch_sampler=BatchSampler(test_dataset, 9999999,
