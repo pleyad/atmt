@@ -18,6 +18,8 @@ def get_args():
     parser.add_argument('--cuda', default=False, help='Use a GPU')
     parser.add_argument('--seed', default=42, type=int, help='pseudo random number generator seed')
 
+    parser.add_argument('--mini', action='store_true', help='Translate very little just a bittle')
+
     # Add data arguments
     parser.add_argument('--data', required=True, help='path to data file')
     parser.add_argument('--dicts', required=True, help='path to directory containing source and target dictionaries')
@@ -41,8 +43,8 @@ def main(args):
     # Load dictionaries
     src_dict = Dictionary.load(os.path.join(args.dicts, 'dict.{:s}'.format(args.source_lang)))
     logging.info('Loaded a source dictionary ({:s}) with {:d} words'.format(args.source_lang, len(src_dict)))
-    tgt_dict = Dictionary.load(os.path.join(args.dicts, 'dict.{:s}'.format(args.source_lang)))
-    logging.info('Loaded a target dictionary ({:s}) with {:d} words'.format(args.source_lang, len(tgt_dict)))
+    tgt_dict = Dictionary.load(os.path.join(args.dicts, 'dict.{:s}'.format(args.target_lang)))
+    logging.info('Loaded a target dictionary ({:s}) with {:d} words'.format(args.target_lang, len(tgt_dict)))
 
     # Load dataset
     test_dataset = Seq2SeqDataset(
@@ -65,6 +67,9 @@ def main(args):
     # Iterate over the test set
     all_hyps = {}
     for i, sample in enumerate(progress_bar):
+        if args.mini:
+            if i > 100:
+                break
         with torch.no_grad():
             # Compute the encoder output
             encoder_out = model.encoder(sample['src_tokens'], sample['src_lengths'])
@@ -112,9 +117,9 @@ def main(args):
     # Write to file
     if args.output is not None:
         with open(args.output, 'w') as out_file:
-            for sent_id in range(len(all_hyps.keys())):
+            # for sent_id in range(len(all_hyps.keys())):
+            for sent_id in all_hyps.keys():
                 out_file.write(all_hyps[sent_id] + '\n')
-
 
 if __name__ == '__main__':
     args = get_args()
