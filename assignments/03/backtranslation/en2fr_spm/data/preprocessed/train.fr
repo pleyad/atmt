@@ -77,7 +77,7 @@
 ▁je ▁suis ▁enseign ant ▁en ▁japonais ▁.
 ▁les ▁Brit ann iques ▁sont ▁arrog ants ▁et ▁gros si ers ▁.
 ▁je ▁suis ▁acc ro ▁à ▁Tatoeba ▁.
-▁l &apos; ▁esp ér ant o ▁n &apos; ▁a ▁qu &apos; ▁un ▁art icle ▁déf in i ▁et ▁n &apos; ▁a ▁pas ▁d &apos; ▁art icle ▁ind é f in i ▁.
+▁l &apos; ▁esp ér ant o ▁n &apos; ▁a ▁qu &apos; ▁un ▁artic le ▁déf in i ▁et ▁n &apos; ▁a ▁pas ▁d &apos; ▁artic le ▁ind é f in i ▁.
 ▁nous ▁l ou ions ▁un ▁app ar tement ▁lorsque ▁nous ▁viv ions ▁à ▁New ▁York ▁.
 ▁je ▁suis ▁cont ra int ▁à ▁le ▁faire ▁.
 ▁je ▁n &apos; ▁avais ▁pas ▁l &apos; ▁intention ▁de ▁bless er ▁qui ▁que ▁ce ▁soit ▁par m i ▁vous ▁.
@@ -93,7 +93,7 @@
 ▁on ▁peut ▁faire ▁confiance ▁à ▁Tom ▁.
 ▁il ▁a ▁un ▁grand ▁bureau ▁dans ▁sa ▁petite ▁pièce ▁.
 ▁j &apos; ▁espère ▁que ▁Marie ▁m &apos; ▁a id era ▁.
-▁pourquoi ▁viv ait ▁@-@ ▁il ▁aux ▁U S A ▁?
+▁pourquoi ▁viv ait ▁@-@ ▁il ▁aux ▁US A ▁?
 ▁comment ▁s &apos; ▁appelle ▁l &apos; ▁entreprise ▁pour ▁laquelle ▁vous ▁travaille z ▁?
 ▁je ▁n &apos; ▁ai ▁jamais ▁pensé ▁qu &apos; ▁il ▁m &apos; ▁aim ait ▁.
 ▁qu &apos; ▁êtes ▁@-@ ▁vous ▁ven us ▁faire ▁ici ▁?
@@ -397,7 +397,7 @@
 ▁vraiment ▁? ▁oui ▁, ▁vraiment ▁.
 ▁le ▁li è vre ▁fut ▁dist anc é ▁par ▁la ▁tort ue ▁.
 ▁Tom ▁dev ina ▁facile ment ▁le ▁mot ▁de ▁passe ▁de ▁Mary ▁.
-▁les ▁imp ô ts ▁sont ▁le ▁prix ▁que ▁nous ▁pay ons ▁pour ▁une ▁soci été ▁c iv il is ée ▁.
+▁les ▁imp ô ts ▁sont ▁le ▁prix ▁que ▁nous ▁pay ons ▁pour ▁une ▁soci été ▁civ il is ée ▁.
 ▁je ▁ne ▁serai ▁pas ▁toujours ▁dans ▁le ▁coin ▁pour ▁t &apos; ▁aider ▁.
 ▁vous ▁avez ▁un ▁message ▁.
 ▁dans ▁combien ▁de ▁temps ▁arriv ons ▁@-@ ▁nous ▁?
@@ -411,7 +411,7 @@
 ▁je ▁préfé re rais ▁y ▁aller ▁à ▁vélo ▁plutôt ▁qu &apos; ▁à ▁pied ▁.
 ▁on ▁dit ▁que ▁la ▁lum ière ▁du ▁S ole il ▁est ▁le ▁meilleur ▁des ▁dés in fect ants ▁.
 ▁des ▁g out tel ettes ▁sont ▁en ▁train ▁de ▁to mber ▁sur ▁mon ▁ordin ateur ▁port able ▁.
-▁en ▁allemand ▁, ▁le ▁pl uri el ▁gén it if ▁de ▁l &apos; ▁art icle ▁déf in i ▁dans ▁tous ▁les ▁trois ▁gen res ▁est ▁ &quot; ▁d er ▁ &quot; ▁.
+▁en ▁allemand ▁, ▁le ▁pl uri el ▁gén it if ▁de ▁l &apos; ▁artic le ▁déf in i ▁dans ▁tous ▁les ▁trois ▁gen res ▁est ▁ &quot; ▁d er ▁ &quot; ▁.
 ▁je ▁ne ▁suis ▁pas ▁aussi ▁mal igne ▁que ▁toi ▁.
 ▁c &apos; ▁est ▁l ent ▁et ▁l ass ant ▁.
 ▁ &quot; ▁on ▁d an se ▁? ▁ &quot; ▁ &quot; ▁Oh ▁, ▁non ▁. ▁je ▁ne ▁sais ▁pas ▁dans er ▁ &quot; ▁.
@@ -423,7 +423,7 @@
 ▁j &apos; ▁appré hen de ▁parfois ▁qu &apos; ▁il ▁y ▁a it ▁des ▁difficult és ▁.
 ▁ce ▁n &apos; ▁est ▁pas ▁à ▁moi ▁de ▁le ▁dire ▁.
 ▁certains ▁joue urs ▁de ▁tennis ▁de ▁premier ▁plan ▁se ▁condu is ent ▁comme ▁des ▁enfants ▁g ât és ▁.
-▁j &apos; ▁ignore ▁tout ▁du ▁market ing ▁.
+▁j &apos; ▁ignore ▁tout ▁du ▁mark et ing ▁.
 ▁je ▁suis ▁mé t ic ule use ▁.
 ▁ça ▁te ▁semble ▁fam il ier ▁?
 ▁j &apos; ▁ai ▁été ▁hum ili ée ▁.
@@ -640,7 +640,7 @@
 ▁je ▁pensais ▁avoir ▁une ▁bonne ▁chance ▁.
 ▁il ▁m &apos; ▁a ▁dit ▁que ▁son ▁père ▁est ▁un ▁professeur ▁.
 ▁il ▁n &apos; ▁était ▁pas ▁bon ▁music ien ▁.
-▁au ▁cent re ▁du ▁camp us ▁univers it aire ▁est ▁é rig ée ▁la ▁stat ue ▁du ▁fond ateur ▁.
+▁au ▁cent re ▁du ▁camp us ▁univers it aire ▁est ▁é ri g ée ▁la ▁stat ue ▁du ▁fond ateur ▁.
 ▁je ▁n &apos; ▁en ▁ai ▁pas ▁encore ▁tout ▁à ▁fait ▁termin é ▁.
 ▁je ▁sais ▁qui ▁il ▁est ▁.
 ▁vraiment ▁? ▁je ▁pensais ▁qu &apos; ▁elle ▁serait ▁la ▁dernière ▁personne ▁à ▁se ▁mar ier ▁.
@@ -816,7 +816,7 @@
 ▁les ▁ind ust ries ▁f urent ▁toujours ▁davantage ▁pré par ées ▁pour ▁l &apos; ▁esp ace ▁.
 ▁elle ▁n &apos; ▁aime ▁personne ▁et ▁personne ▁ne ▁l &apos; ▁aime ▁.
 ▁imagine ▁que ▁tu ▁ne ▁me ▁connais ▁pas ▁.
-▁le ▁nom ▁de ▁mon ▁pays ▁s &apos; ▁écrit ▁sans ▁aucun ▁art icle ▁.
+▁le ▁nom ▁de ▁mon ▁pays ▁s &apos; ▁écrit ▁sans ▁aucun ▁artic le ▁.
 ▁le ▁monde ▁ind ust ri al isé ▁a ▁l &apos; ▁habitude ▁d &apos; ▁utiliser ▁l &apos; ▁eau ▁à ▁tor d ▁et ▁à ▁travers ▁.
 ▁merci ▁pour ▁ton ▁expl ication ▁dé ta ill ée ▁.
 ▁tu ▁es ▁mon ▁hé ros ▁, ▁Sami ▁.
@@ -916,7 +916,7 @@
 ▁je ▁suis ▁ind is p on ible ▁.
 ▁cro yez ▁@-@ ▁vous ▁en ▁la ▁ch ré t ient é ▁?
 ▁aucune ▁de ▁ces ▁voiture s ▁n &apos; ▁est ▁à ▁moi ▁.
-▁veuillez ▁post er ▁cette ▁lettre ▁lors ▁de ▁votre ▁prochain ▁pass age ▁au ▁bureau ▁de ▁poste ▁.
+▁veuillez ▁po ster ▁cette ▁lettre ▁lors ▁de ▁votre ▁prochain ▁pass age ▁au ▁bureau ▁de ▁poste ▁.
 ▁vous ▁avez ▁encore ▁beaucoup ▁à ▁apprendre ▁.
 ▁je ▁veux ▁re venir ▁.
 ▁je ▁suis ▁des ol é ▁de ▁n &apos; ▁avoir ▁pas ▁pu ▁répon dre ▁à ▁tes ▁att ent es ▁.
@@ -1122,7 +1122,7 @@
 ▁j &apos; ▁étais ▁en ▁voyage ▁en ▁In de ▁.
 ▁il ▁a ▁été ▁mon ▁enseign ant ▁de ▁math s
 ▁vous ▁êtes ▁r usé ▁.
-▁Tom ▁ne ▁con n ait ▁pas ▁la ▁diffé rence ▁entre ▁vir us ▁et ▁b act érie ▁.
+▁Tom ▁ne ▁con n ait ▁pas ▁la ▁diffé rence ▁entre ▁virus ▁et ▁b act érie ▁.
 ▁de ▁quoi ▁veux ▁@-@ ▁tu ▁me ▁parler ▁?
 ▁le ▁garçon ▁cher cha it ▁la ▁cl é ▁perd ue ▁.
 ▁le ▁sucre ▁se ▁d iss out ▁dans ▁l &apos; ▁eau ▁.
@@ -1199,7 +1199,7 @@
 ▁ce ▁costume ▁te ▁va ▁bien ▁.
 ▁le ▁garçon ▁emb rass a ▁la ▁fille ▁.
 ▁mon ▁père ▁me ▁l &apos; ▁a ▁don née ▁quand ▁j &apos; ▁étais ▁enfant ▁.
-▁pourquoi ▁est ▁@-@ ▁ce ▁que ▁Tom ▁t &apos; ▁a ▁appel é ▁?
+▁pourquoi ▁est ▁@-@ ▁ce ▁que ▁Tom ▁t &apos; ▁a ▁appelé ▁?
 ▁il ▁semble ▁assez ▁content ▁.
 ▁j &apos; ▁appe ll erai ▁si ▁j &apos; ▁entend s ▁quoi ▁que ▁ce ▁soit ▁.
 ▁vous ▁me ▁fl at tez ▁.
@@ -1232,7 +1232,7 @@
 ▁crois ▁@-@ ▁tu ▁qu &apos; ▁il ▁est ▁sens é ▁?
 ▁il ▁pla ça ▁le ▁mou ch oir ▁dans ▁sa ▁po che ▁.
 ▁V oy ons ▁voir ▁...
-▁j &apos; ▁adm ire ▁ta ▁dé termin ation ▁.
+▁j &apos; ▁admire ▁ta ▁dé termin ation ▁.
 ▁je ▁n &apos; ▁ai ▁jamais ▁vu ▁mon ▁chat ▁ag ir ▁comme ▁ça ▁.
 ▁le ▁sy mb ole ▁ch im ique ▁H ▁dés igne ▁l &apos; ▁hy d rog ène ▁.
 ▁la ▁vie ille ▁ant ienne ▁res s ur g it ▁.
@@ -1507,7 +1507,7 @@
 ▁je ▁veux ▁juste ▁que ▁tu ▁sa ches ▁combien ▁je ▁suis ▁désolé ▁.
 ▁ne ▁tour ne ▁pas ▁aut our ▁du ▁pot ▁.
 ▁A im er iez ▁@-@ ▁vous ▁dormir ▁un ▁peu ▁plus ▁longtemps ▁?
-▁tu ▁es ▁c ensé ▁res pe cter ▁la ▁lo i ▁.
+▁tu ▁es ▁c ensé ▁respect er ▁la ▁lo i ▁.
 ▁quoi ▁que ▁tu ▁f ass es ▁, ▁n &apos; ▁app u ie ▁pas ▁sur ▁ce ▁bout on ▁!
 ▁j &apos; ▁adore ▁la ▁ten ue ▁que ▁tu ▁port es ▁.
 ▁êtes ▁@-@ ▁vous ▁en ▁train ▁de ▁m &apos; ▁acc us er ▁de ▁tri cher ▁?
@@ -1538,8 +1538,8 @@
 ▁faites ▁ce ▁qui ▁vous ▁chante ▁!
 ▁je ▁suis ▁rest ée ▁à ▁l &apos; ▁int érieur ▁toute ▁la ▁journée ▁.
 ▁cela ▁ressemble ▁à ▁un ▁can ard ▁.
-▁nous ▁ne ▁pouvons ▁pas ▁éc ar ter ▁la ▁possib ilité ▁qu &apos; ▁une ▁gu erre ▁c iv ile ▁éc l ate ▁dans ▁ce ▁pays ▁.
-▁je ▁l &apos; ▁ai ▁appel é ▁mais ▁une ▁fille ▁a ▁répon du ▁au ▁téléphone ▁.
+▁nous ▁ne ▁pouvons ▁pas ▁éc ar ter ▁la ▁possib ilité ▁qu &apos; ▁une ▁gu erre ▁civ ile ▁éc l ate ▁dans ▁ce ▁pays ▁.
+▁je ▁l &apos; ▁ai ▁appelé ▁mais ▁une ▁fille ▁a ▁répon du ▁au ▁téléphone ▁.
 ▁Tom ▁le ▁regard ait ▁se mer ▁de ▁la ▁sal ade ▁.
 ▁si ▁tu ▁ne ▁veux ▁pas ▁que ▁j &apos; ▁y ▁a ille ▁, ▁je ▁n &apos; ▁i rai ▁pas ▁.
 ▁ &quot; ▁dois ▁@-@ ▁je ▁p es er ▁la ▁far ine ▁? ▁ &quot; ▁ &quot; ▁tu ▁peux ▁le ▁faire ▁à ▁vue ▁, ▁si ▁tu ▁veux ▁ &quot; ▁.
@@ -1696,7 +1696,7 @@
 ▁je ▁ne ▁pense ▁pas ▁que ▁son ▁histoire ▁soit ▁vra ie ▁.
 ▁son ▁passe ▁@-@ ▁temps ▁était ▁de ▁colle ction ner ▁les ▁piè ces ▁de ▁mon na ie ▁an c ien nes ▁.
 ▁il ▁a ▁de ▁gros ▁problèmes ▁.
-▁il ▁fait ▁très ▁froid ▁à ▁Har b in ▁.
+▁il ▁fait ▁très ▁froid ▁à ▁H ar b in ▁.
 ▁j &apos; ▁ai ▁att rap é ▁un ▁r h ume ▁il ▁y ▁a ▁deux ▁jours ▁.
 ▁je ▁ne ▁suis ▁pas ▁ici ▁à ▁cause ▁de ▁cela ▁.
 ▁elle ▁ne ▁sait ▁pas ▁faire ▁de ▁la ▁bicy cl ette ▁.
@@ -1732,7 +1732,7 @@
 ▁sans ▁le ▁m ens on ge ▁, ▁la ▁vérité ▁p éri rait ▁de ▁dés es p oir ▁et ▁d &apos; ▁en n ui ▁.
 ▁j &apos; ▁ai ▁beaucoup ▁de ▁travail ▁aujourd &apos; ▁hui ▁.
 ▁In f or me z ▁@-@ ▁en ▁Tom ▁.
-▁je ▁l &apos; ▁ai ▁appel é ▁au ▁téléphone ▁.
+▁je ▁l &apos; ▁ai ▁appelé ▁au ▁téléphone ▁.
 ▁peu ▁de ▁personnes ▁ont ▁cons c ience ▁de ▁leurs ▁prop res ▁déf aut s ▁.
 ▁les ▁o ise aux ▁ont ▁la ▁vue ▁per ç ante ▁.
 ▁c &apos; ▁est ▁qui ▁, ▁Tom ▁?
@@ -1878,7 +1878,7 @@
 ▁cette ▁école ▁four n it ▁des ▁man uel s ▁aux ▁é lè ves ▁.
 ▁son ▁retard ▁est ▁dû ▁à ▁un ▁accident ▁de ▁la ▁route ▁.
 ▁il ▁nous ▁faut ▁une ▁str at ég ie ▁.
-▁le ▁Japon ▁comm er ce ▁beaucoup ▁avec ▁le ▁C an ad a ▁.
+▁le ▁Japon ▁comm er ce ▁beaucoup ▁avec ▁le ▁Can ad a ▁.
 ▁fer me ▁la ▁fenêtre ▁pour ▁év iter ▁de ▁t &apos; ▁en r h umer ▁.
 ▁c &apos; ▁est ▁dange reux ▁, ▁ici ▁.
 ▁Tom ▁a ▁pris ▁un ▁jour ▁de ▁con gé ▁.
@@ -1975,7 +1975,7 @@
 ▁a ▁@-@ ▁t ▁@-@ ▁il ▁encore ▁oublié ▁son ▁argent ▁?
 ▁attention ▁aux ▁ch utes ▁de ▁p ier res ▁.
 ▁le ▁garçon ▁a ▁att rap é ▁un ▁grand ▁po isson ▁.
-▁n &apos; ▁oubl ie ▁pas ▁de ▁post er ▁la ▁lettre ▁.
+▁n &apos; ▁oubl ie ▁pas ▁de ▁po ster ▁la ▁lettre ▁.
 ▁l &apos; ▁accident ▁d &apos; ▁av ion ▁a ▁coû té ▁la ▁vie ▁à ▁200 ▁personnes ▁.
 ▁je ▁vis ▁à ▁T ô k y ô ▁depuis ▁19 8 5 ▁.
 ▁elle ▁était ▁dem o ise lle ▁d &apos; ▁h onne ur ▁au ▁mari age ▁.
@@ -2119,7 +2119,7 @@
 ▁nous ▁comm en ç âmes ▁à ▁travailler ▁à ▁un ▁nouveau ▁pro jet ▁.
 ▁je ▁dois ▁partir ▁lun di ▁.
 ▁je ▁veux ▁être ▁davantage ▁qu &apos; ▁une ▁amie ▁.
-▁je ▁ne ▁sais ▁pas ▁comment ▁vous ▁cont ac ter ▁.
+▁je ▁ne ▁sais ▁pas ▁comment ▁vous ▁contact er ▁.
 ▁tes ▁band es ▁dess in ées ▁sont ▁sur ▁l &apos; ▁ét ag ère ▁.
 ▁un ▁s ad ique ▁est ▁toujours ▁en ▁même ▁temps ▁un ▁m as o ch iste ▁.
 ▁je ▁n &apos; ▁ai ▁simplement ▁pas ▁très ▁faim ▁.
@@ -2144,7 +2144,7 @@
 ▁je ▁comp at is ▁avec ▁elles ▁.
 ▁je ▁pensais ▁que ▁tu ▁voulais ▁div or cer ▁.
 ▁il ▁n &apos; ▁est ▁pas ▁nécessaire ▁que ▁vous ▁pré par iez ▁un ▁disc ours ▁for me l ▁.
-▁tu ▁es ▁vraiment ▁inc or rig ible ▁!
+▁tu ▁es ▁vraiment ▁inc or ri g ible ▁!
 ▁où ▁es ▁@-@ ▁tu ▁all ée ▁à ▁l &apos; ▁école ▁?
 ▁je ▁t &apos; ▁apprécie ▁ég alement ▁.
 ▁nous ▁ven ons ▁de ▁n ett oy er ▁les ▁toil ettes ▁.
@@ -2166,7 +2166,7 @@
 ▁enf in ▁la ▁p éri o de ▁des ▁exam ens ▁est ▁termin ée ▁.
 ▁il ▁n &apos; ▁est ▁pas ▁donné ▁à ▁tout ▁le ▁monde ▁de ▁pouvoir ▁étud ier ▁à ▁l ▁ &quot; ▁étranger ▁.
 ▁j &apos; ▁espère ▁vraiment ▁que ▁vous ▁a yez ▁raison ▁.
-▁nous ▁devons ▁res pe cter ▁les ▁c out um es ▁local es ▁.
+▁nous ▁devons ▁respect er ▁les ▁c out um es ▁local es ▁.
 ▁je ▁suis ▁assez ▁heureuse ▁.
 ▁l &apos; ▁ordin ateur ▁port able ▁de ▁Tom ▁a ▁un ▁pa vé ▁ta ct ile ▁.
 ▁je ▁suis ▁désolé ▁, ▁mais ▁je ▁ne ▁suis ▁pas ▁capable ▁de ▁l &apos; ▁exp r im er ▁avec ▁des ▁mots ▁.
@@ -2182,7 +2182,7 @@
 ▁vous ▁ne ▁pensez ▁pas ▁cl aire ment ▁.
 ▁il ▁est ▁loin ▁d &apos; ▁être ▁hon n ête ▁.
 ▁avez ▁@-@ ▁vous ▁déjà ▁tre mb lé ▁de ▁froid ▁?
-▁je ▁suis ▁cont ente ▁que ▁vous ▁a yez ▁appel é ▁.
+▁je ▁suis ▁cont ente ▁que ▁vous ▁a yez ▁appelé ▁.
 ▁nous ▁fais ons ▁tout ▁ce ▁que ▁nous ▁pouvons ▁.
 ▁que ▁dis ▁@-@ ▁tu ▁d &apos; ▁organ is er ▁un ▁bar be c ue ▁dim anche ▁prochain ▁?
 ▁vous ▁êtes ▁gar ée ▁en ▁double ▁f ile ▁.
@@ -2249,7 +2249,7 @@
 ▁je ▁suis ▁en ▁bé qu illes ▁pour ▁un ▁mois ▁.
 ▁je ▁ne ▁parv iens ▁pas ▁à ▁j ug ul er ▁l &apos; ▁hé mor ra gie ▁.
 ▁il ▁essay e ▁toujours ▁de ▁faire ▁l &apos; ▁impossible ▁.
-▁ne ▁comp li que ▁pas ▁le ▁problème ▁en ▁sou lev ant ▁de ▁nouve aux ▁p oin ts ▁.
+▁ne ▁comp li que ▁pas ▁le ▁problème ▁en ▁sou lev ant ▁de ▁nouve aux ▁po ints ▁.
 ▁In c roy able ▁!
 ▁ &quot; ▁l ▁ &quot; ▁é conom ie ▁é lo igne ▁les ▁deux ▁ri ves ▁de ▁l &apos; ▁A t l ant ique ▁ &quot; ▁, ▁L a ▁St amp a ▁rés ume ▁ainsi ▁les ▁cons é qu ences ▁des ▁ré cent es ▁dé cl ar ations ▁de ▁Bar ack ▁O b am a ▁, ▁sel on ▁les que lles ▁les ▁ma ig res ▁pers pect ives ▁de ▁cro iss ance ▁des ▁ É t ats ▁@-@ ▁Un is ▁sont ▁du es ▁à ▁la ▁mauvais e ▁g est ion ▁de ▁la ▁cr ise ▁de ▁la ▁z one ▁eu ro ▁.
 ▁je ▁dois ▁me ▁dép êcher ▁!
@@ -2316,10 +2316,10 @@
 ▁elles ▁ont ▁été ▁att a qu ées ▁.
 ▁je ▁prot este ▁!
 ▁y ▁a ▁@-@ ▁t ▁@-@ ▁il ▁qui ▁que ▁ce ▁soit ▁, ▁là ▁@-@ ▁de d ans ▁?
-▁le ▁pré venu ▁est ▁acc usé ▁d &apos; ▁une ▁lit an ie ▁de ▁cr imes ▁p é na ux ▁et ▁c iv ils ▁.
+▁le ▁pré venu ▁est ▁acc usé ▁d &apos; ▁une ▁lit an ie ▁de ▁cr imes ▁p é na ux ▁et ▁civ ils ▁.
 ▁je ▁pensais ▁que ▁Tom ▁était ▁d &apos; ▁accord ▁pour ▁faire ▁le ▁travail ▁.
 ▁que ▁devrais ▁@-@ ▁je ▁manger ▁?
-▁elle ▁est ▁dans ▁le ▁réf rig ér ateur ▁.
+▁elle ▁est ▁dans ▁le ▁réf ri g ér ateur ▁.
 ▁il ▁ne ▁vous ▁rend ra ▁pas ▁vis ite ▁demain ▁.
 ▁il ▁se ▁peut ▁qu &apos; ▁il ▁ne ▁soit ▁pas ▁en ▁cap ac ité ▁de ▁venir ▁.
 ▁le ▁do cteur ▁sais it ▁la ▁main ▁du ▁patient ▁et ▁dit ▁: ▁ &quot; ▁alors ▁, ▁comment ▁se ▁sent ▁@-@ ▁on ▁aujourd &apos; ▁hui ▁? ▁ &quot;
@@ -2354,7 +2354,7 @@
 ▁qu &apos; ▁as ▁@-@ ▁tu ▁l &apos; ▁intention ▁de ▁faire ▁avec ▁l &apos; ▁argent ▁?
 ▁ils ▁se ▁sont ▁mo qu és ▁de ▁ma ▁ten ue ▁.
 ▁j &apos; ▁aimerais ▁me ▁mar ier ▁.
-▁fumer ▁af fe cter a ▁votre ▁santé ▁.
+▁fumer ▁af fect era ▁votre ▁santé ▁.
 ▁voulez ▁@-@ ▁vous ▁bien ▁m &apos; ▁in di quer ▁où ▁se ▁trouve ▁la ▁B an que ▁de ▁France ▁?
 ▁y ▁a ▁@-@ ▁t ▁@-@ ▁il ▁un ▁min im um ▁à ▁dép ens er ▁en ▁bo iss ons ▁?
 ▁j &apos; ▁ai ▁un ▁on cle ▁qui ▁vit ▁à ▁Boston ▁.
@@ -2431,7 +2431,7 @@
 ▁il ▁était ▁temps ▁que ▁tu ▁te ▁mar ies ▁.
 ▁le ▁lait ▁a ▁un ▁peu ▁tour né ▁.
 ▁mon ▁mari ▁est ▁en ▁prison ▁.
-▁si ▁je ▁connaiss ais ▁son ▁ad resse ▁, ▁je ▁le ▁cont ac ter ais ▁immédiatement ▁.
+▁si ▁je ▁connaiss ais ▁son ▁ad resse ▁, ▁je ▁le ▁contact erais ▁immédiatement ▁.
 ▁Tom ▁a ▁trouvé ▁quelque ▁chose ▁.
 ▁j &apos; ▁avais ▁un ▁par ap lu ie ▁, ▁mais ▁mon ▁ami ▁n &apos; ▁en ▁avait ▁pas ▁.
 ▁je ▁ne ▁peux ▁pas ▁rép arer ▁le ▁si è ge ▁.
@@ -2525,7 +2525,7 @@
 ▁laisse ▁to mber ▁.
 ▁F er me z ▁les ▁yeux ▁, ▁s &apos; ▁il ▁vous ▁plaît ▁.
 ▁je ▁ne ▁voulais ▁pas ▁vous ▁dire ▁cela ▁au ▁téléphone ▁.
-▁je ▁mange ▁des ▁fr u its ▁et ▁b ois ▁de ▁l &apos; ▁eau ▁.
+▁je ▁mange ▁des ▁fr u its ▁et ▁bo is ▁de ▁l &apos; ▁eau ▁.
 ▁je ▁ne ▁voulais ▁pas ▁sortir ▁du ▁lit ▁.
 ▁j &apos; ▁ai ▁all um é ▁le ▁feu ▁.
 ▁dans ▁le ▁magasin ▁, ▁elles ▁ache t èrent ▁le ▁nécessaire ▁et ▁le ▁super f lu ▁.
@@ -2596,7 +2596,7 @@
 ▁trouve ▁@-@ ▁toi ▁un ▁costume ▁con ven able ▁.
 ▁c &apos; ▁est ▁un ▁petit ▁g ars ▁intelligent ▁.
 ▁il ▁s &apos; ▁est ▁vraiment ▁am usé ▁.
-▁vous ▁êtes ▁inc or rig i bles ▁.
+▁vous ▁êtes ▁inc or ri g i bles ▁.
 ▁l &apos; ▁homme ▁est ▁ainsi ▁bât i ▁: ▁quand ▁un ▁sujet ▁l &apos; ▁enf l am me ▁, ▁l &apos; ▁impos sib ilité ▁disp ara ît ▁à ▁son ▁â me ▁.
 ▁il ▁regard a ▁au ▁loin ▁.
 ▁pourquoi ▁ne ▁mon tez ▁@-@ ▁vous ▁pas ▁avec ▁moi ▁?
@@ -2662,7 +2662,7 @@
 ▁qu &apos; ▁est ▁@-@ ▁ce ▁que ▁vous ▁voulez ▁vraiment ▁me ▁dire ▁?
 ▁il ▁te ▁faut ▁grand ir ▁.
 ▁mon ▁ord on n ance ▁est ▁pr ête ▁chez ▁le ▁p har m ac ien ▁.
-▁savais ▁@-@ ▁tu ▁que ▁les ▁hommes ▁qui ▁pren nent ▁ré g ul ière ment ▁la ▁p il ule ▁ne ▁tomb ent ▁pas ▁en ce in ts ▁?
+▁savais ▁@-@ ▁tu ▁que ▁les ▁hommes ▁qui ▁pren nent ▁ré g ul ière ment ▁la ▁p il ule ▁ne ▁tomb ent ▁pas ▁en ce ints ▁?
 ▁nous ▁n &apos; ▁avons ▁pas ▁eu ▁de ▁plain tes ▁.
 ▁est ▁@-@ ▁ce ▁qu &apos; ▁il ▁vous ▁manque ▁?
 ▁ne ▁t &apos; ▁en ▁fais ▁pas ▁, ▁j &apos; ▁ai ▁pensé ▁à ▁tout ▁.
@@ -3086,7 +3086,7 @@
 ▁le ▁professeur ▁m &apos; ▁a ▁dit ▁que ▁H it ler ▁s &apos; ▁était ▁suic idé ▁.
 ▁vous ▁avez ▁beaucoup ▁de ▁temps ▁.
 ▁elle ▁est ▁tomb ée ▁amou re use ▁de ▁son ▁prof ▁.
-▁Tom ▁a ▁ra m ass é ▁du ▁b ois ▁pour ▁le ▁feu ▁.
+▁Tom ▁a ▁ra m ass é ▁du ▁bo is ▁pour ▁le ▁feu ▁.
 ▁tu ▁n &apos; ▁es ▁pas ▁trop ▁vieux ▁pour ▁apprendre ▁.
 ▁le ▁travail ▁rend ▁libre ▁.
 ▁il ▁a ▁tent é ▁de ▁se ▁suic ider ▁.
@@ -3178,7 +3178,7 @@
 ▁K en ▁a ▁sa ut é ▁par ▁@-@ ▁dess us ▁le ▁mur ▁.
 ▁le ▁train ▁est ▁parti ▁avant ▁que ▁j &apos; ▁arrive ▁à ▁la ▁g are ▁.
 ▁je ▁n &apos; ▁ai ▁jamais ▁mangé ▁avec ▁des ▁bag u ettes ▁.
-▁la ▁police ▁a ▁@-@ ▁t ▁@-@ ▁elle ▁trouvé ▁des ▁emp re in tes ▁d ig ital es ▁?
+▁la ▁police ▁a ▁@-@ ▁t ▁@-@ ▁elle ▁trouvé ▁des ▁emp re int es ▁d ig ital es ▁?
 ▁veuillez ▁vous ▁en ▁aller ▁.
 ▁je ▁me ▁ré j ou is ▁que ▁tu ▁ai es ▁décidé ▁de ▁venir ▁.
 ▁elle ▁est ▁rest ée ▁sil enc ie use ▁toute ▁la ▁journée ▁.
@@ -3443,7 +3443,7 @@
 ▁le ▁plus ▁souvent ▁, ▁il ▁est ▁en ▁retard ▁pour ▁l &apos; ▁école ▁.
 ▁la ▁thé or ie ▁est ▁trop ▁ab st ra ite ▁pour ▁moi ▁.
 ▁veux ▁@-@ ▁tu ▁du ▁café ▁?
-▁elle ▁dém én age a ▁aux ▁U S A ▁parce ▁que ▁son ▁père ▁m our ut ▁quelques ▁mois ▁après ▁que ▁vous ▁f û tes ▁allé ▁en ▁France ▁.
+▁elle ▁dém én age a ▁aux ▁US A ▁parce ▁que ▁son ▁père ▁m our ut ▁quelques ▁mois ▁après ▁que ▁vous ▁f û tes ▁allé ▁en ▁France ▁.
 ▁Tom ▁est ▁grand ▁, ▁mais ▁pas ▁aussi ▁grand ▁que ▁moi ▁.
 ▁tu ▁crois ▁que ▁ça ▁me ▁fait ▁plais ir ▁de ▁ne ▁pas ▁avoir ▁le ▁temps ▁de ▁m &apos; ▁occup er ▁de ▁mes ▁enfants ▁?
 ▁que ▁dis ▁@-@ ▁tu ▁de ▁rep rendre ▁depuis ▁le ▁tout ▁déb ut ▁?
@@ -3577,7 +3577,7 @@
 ▁y ▁a ▁@-@ ▁t ▁@-@ ▁il ▁quelque ▁chose ▁que ▁tu ▁veu illes ▁dire ▁?
 ▁il ▁voy ait ▁le ▁suic ide ▁comme ▁la ▁seule ▁iss ue ▁.
 ▁il ▁part ▁tout ▁le ▁temps ▁au ▁travail ▁à ▁ 8 ▁heures ▁.
-▁elle ▁a ▁emp oison né ▁son ▁mari ▁.
+▁elle ▁a ▁emp o ison né ▁son ▁mari ▁.
 ▁si ▁je ▁ne ▁suis ▁pas ▁trop ▁occup ée ▁, ▁je ▁t &apos; ▁a id erai ▁demain ▁.
 ▁allez ▁, ▁donne z ▁@-@ ▁moi ▁un ▁b ais er ▁!
 ▁je ▁voudrais ▁en ▁savoir ▁plus ▁sur ▁les ▁techn iques ▁utilis ées ▁pour ▁constru ire ▁les ▁p y ram ides ▁d &apos; ▁ É gy p te ▁.
@@ -3680,7 +3680,7 @@
 ▁a ▁@-@ ▁t ▁@-@ ▁il ▁peur ▁de ▁la ▁mort ▁?
 ▁ils ▁ne ▁fais aient ▁que ▁jouer ▁.
 ▁je ▁n &apos; ▁ai ▁pas ▁demandé ▁tes ▁conse ils ▁.
-▁je ▁ne ▁pr ête ▁jamais ▁ma ▁cl é ▁U S B ▁aux ▁autres ▁.
+▁je ▁ne ▁pr ête ▁jamais ▁ma ▁cl é ▁US B ▁aux ▁autres ▁.
 ▁je ▁di rai ▁que ▁c &apos; ▁est ▁vrai ▁.
 ▁quelle ▁étr ange ▁histoire ▁!
 ▁elle ▁a ▁eff ray é ▁le ▁chat ▁, ▁qui ▁s &apos; ▁est ▁enf uit ▁.
@@ -3713,7 +3713,7 @@
 ▁à ▁peine ▁avait ▁@-@ ▁il ▁rencontré ▁sa ▁famille ▁qu &apos; ▁il ▁éc l ata ▁en ▁sang lot s ▁.
 ▁ça ▁ne ▁va ▁pas ▁te ▁tu er ▁de ▁sa uter ▁un ▁rep as ▁.
 ▁je ▁t &apos; ▁ai ▁vue ▁avec ▁lui ▁.
-▁ne ▁b ois ▁pas ▁autant ▁de ▁bière ▁.
+▁ne ▁bo is ▁pas ▁autant ▁de ▁bière ▁.
 ▁j &apos; ▁ai ▁dit ▁de ▁la ▁fer mer ▁!
 ▁je ▁viens ▁d &apos; ▁avoir ▁une ▁con vers ation ▁avec ▁ton ▁médecin ▁.
 ▁nous ▁recher ch ons ▁un ▁tr és or ▁.
@@ -3761,7 +3761,7 @@
 ▁où ▁t &apos; ▁es ▁@-@ ▁tu ▁fait ▁coup er ▁les ▁cheveux ▁?
 ▁du ▁reste ▁, ▁c &apos; ▁est ▁un ▁problème ▁tout ▁à ▁fait ▁intéress ant ▁.
 ▁qui ▁était ▁@-@ ▁ce ▁qui ▁a ▁acheté ▁cette ▁ju pe ▁hier ▁?
-▁rappe lez ▁@-@ ▁vous ▁de ▁post er ▁la ▁lettre ▁.
+▁rappe lez ▁@-@ ▁vous ▁de ▁po ster ▁la ▁lettre ▁.
 ▁un ▁chien ▁m &apos; ▁a ▁suiv ie ▁jusqu &apos; ▁à ▁l &apos; ▁école ▁.
 ▁s &apos; ▁il ▁te ▁plaît ▁, ▁dis ▁@-@ ▁moi ▁ce ▁que ▁je ▁devrais ▁faire ▁d &apos; ▁ab ord ▁.
 ▁je ▁préf ère rais ▁vraiment ▁être ▁seule ▁, ▁à ▁cet ▁instant ▁.
@@ -4057,7 +4057,7 @@
 ▁certain es ▁filles ▁sont ▁nature llement ▁j ol ies ▁.
 ▁est ▁@-@ ▁ce ▁vos ▁v rais ▁cheveux ▁?
 ▁mes ▁parents ▁ont ▁dit ▁que ▁ça ▁porte ▁mal he ur ▁de ▁mar cher ▁à ▁gen ou x ▁.
-▁je ▁veux ▁év iter ▁les ▁heures ▁de ▁p oin te ▁.
+▁je ▁veux ▁év iter ▁les ▁heures ▁de ▁po in te ▁.
 ▁il ▁fait ▁des ▁mont ag nes ▁de ▁tout ▁.
 ▁as ▁@-@ ▁tu ▁du ▁b œ uf ▁sé ché ▁?
 ▁quel ▁est ▁votre ▁dent if ri ce ▁préfé ré ▁?
@@ -4182,7 +4182,7 @@
 ▁tu ▁semb les ▁tout ▁conna ître ▁.
 ▁en ▁deux ▁coup s ▁, ▁K as par ov ▁met tra ▁en ▁é che c ▁le ▁cha ll en ger ▁.
 ▁je ▁suis ▁cont ente ▁d &apos; ▁être ▁à ▁la ▁maison ▁.
-▁je ▁pensais ▁que ▁ce ▁serait ▁une ▁bonne ▁idée ▁de ▁rep rendre ▁cont act ▁avec ▁la ▁cult ure ▁et ▁l &apos; ▁histoire ▁japonais es ▁.
+▁je ▁pensais ▁que ▁ce ▁serait ▁une ▁bonne ▁idée ▁de ▁rep rendre ▁contact ▁avec ▁la ▁cult ure ▁et ▁l &apos; ▁histoire ▁japonais es ▁.
 ▁elle ▁semb l ait ▁per t ur b ée ▁par ▁cette ▁ann on ce ▁.
 ▁ce ▁que ▁vous ▁êtes ▁en ▁train ▁de ▁faire ▁me ▁rend ▁nerve ux ▁.
 ▁vous ▁en ▁sou c iez ▁@-@ ▁vous ▁beaucoup ▁?
@@ -4358,7 +4358,7 @@
 ▁ce ▁la bor at oire ▁est ▁l &apos; ▁endroit ▁où ▁nous ▁travaill ons ▁chaque ▁jour ▁.
 ▁ces ▁chape aux ▁me ▁plais ent ▁.
 ▁nous ▁déc ider ons ▁plus ▁tard ▁.
-▁l &apos; ▁h iver ▁dernier ▁je ▁suis ▁allé ▁sk ier ▁au ▁C an ad a ▁.
+▁l &apos; ▁h iver ▁dernier ▁je ▁suis ▁allé ▁sk ier ▁au ▁Can ad a ▁.
 ▁je ▁voulais ▁vous ▁parler ▁à ▁propos ▁de ▁quelque ▁chose ▁.
 ▁il ▁a ▁dit ▁qu &apos; ▁il ▁avait ▁beaucoup ▁d &apos; ▁argent ▁.
 ▁Sami ▁n &apos; ▁était ▁pas ▁amoureux ▁de ▁Layla ▁.
@@ -4391,7 +4391,7 @@
 ▁votre ▁sœur ▁est ▁en ▁train ▁de ▁dormir ▁.
 ▁tu ▁as ▁acheté ▁plus ▁de ▁tim bres ▁que ▁nécessaire ▁.
 ▁une ▁é n or me ▁station ▁sp at ia le ▁en ▁or b ite ▁aut our ▁de ▁J up iter ▁surv ol ait ▁les ▁band es ▁ar c ▁@-@ ▁en ▁@-@ ▁c iel ▁de ▁la ▁gé ante ▁g az e use ▁.
-▁les ▁bless és ▁f urent ▁év ac u és ▁du ▁lieu ▁de ▁l &apos; ▁accident ▁.
+▁les ▁bless és ▁f urent ▁é va cu és ▁du ▁lieu ▁de ▁l &apos; ▁accident ▁.
 ▁le ▁train ▁arrive ▁!
 ▁je ▁vous ▁pa ier ai ▁.
 ▁elle ▁était ▁malade ▁.
@@ -4405,7 +4405,7 @@
 ▁je ▁veux ▁voir ▁Tom ▁.
 ▁ça ▁m &apos; ▁a ▁presque ▁fait ▁peur ▁de ▁ne ▁pas ▁te ▁voir ▁conne ct ée ▁pendant ▁toute ▁une ▁journée ▁.
 ▁elle ▁n &apos; ▁a ▁pas ▁de ▁po it r ine ▁.
-▁cet ▁art icle ▁est ▁plus ▁intéress ant ▁que ▁le ▁pré cé d ent ▁.
+▁cet ▁artic le ▁est ▁plus ▁intéress ant ▁que ▁le ▁pré cé d ent ▁.
 ▁F ra pp ez ▁@-@ ▁vous ▁vos ▁enfants ▁?
 ▁la ▁beaut é ▁plaît ▁aux ▁yeux ▁, ▁la ▁dou ce ur ▁char me ▁l &apos; ▁â me ▁.
 ▁notre ▁plan ▁s &apos; ▁est ▁mal ▁g oup illé ▁d ès ▁le ▁dép art ▁.
@@ -4519,7 +4519,7 @@
 ▁sa ▁bar be ▁était ▁r ous se ▁et ▁tou ff ue ▁.
 ▁je ▁me ▁demande ▁s &apos; ▁il ▁est ▁vraiment ▁malade ▁.
 ▁nous ▁avons ▁hon te ▁de ▁la ▁pauvre té ▁de ▁notre ▁père ▁.
-▁c &apos; ▁est ▁int rig ant ▁.
+▁c &apos; ▁est ▁int ri g ant ▁.
 ▁je ▁ne ▁savais ▁pas ▁où ▁allait ▁Tom ▁, ▁mais ▁j &apos; ▁avais ▁une ▁bonne ▁idée ▁d &apos; ▁où ▁il ▁allait ▁.
 ▁je ▁travaille ▁sur ▁ceci ▁depuis ▁des ▁mois ▁.
 ▁en ▁quelle ▁année ▁es ▁@-@ ▁tu ▁n ée ▁?
@@ -4567,7 +4567,7 @@
 ▁la ▁ville ▁était ▁ple ine ▁d &apos; ▁act iv ité ▁.
 ▁laissez ▁@-@ ▁le ▁seul ▁.
 ▁je ▁n &apos; ▁avais ▁aucune ▁intention ▁de ▁le ▁faire ▁.
-▁la ▁Terre ▁et ▁le ▁S ole il ▁ne ▁sont ▁que ▁des ▁p oin ts ▁min us cul es ▁par m i ▁les ▁mill i ards ▁d &apos; ▁éto iles ▁dans ▁la ▁g al a x ie ▁de ▁la ▁V o ie ▁L act ée ▁.
+▁la ▁Terre ▁et ▁le ▁S ole il ▁ne ▁sont ▁que ▁des ▁po ints ▁min us cul es ▁par m i ▁les ▁mill i ards ▁d &apos; ▁éto iles ▁dans ▁la ▁g al a x ie ▁de ▁la ▁V o ie ▁L act ée ▁.
 ▁je ▁sugg ère ▁que ▁nous ▁sort ions ▁prendre ▁un ▁verre ▁.
 ▁peut ▁@-@ ▁être ▁devrais ▁@-@ ▁tu ▁simplement ▁laisser ▁Tom ▁seul ▁.
 ▁est ▁@-@ ▁ce ▁que ▁tu ▁recon nais ▁l &apos; ▁homme ▁sur ▁cette ▁photo ▁?
@@ -4592,7 +4592,7 @@
 ▁je ▁veux ▁me ▁ré cha uff er ▁.
 ▁tu ▁dois ▁le ▁faire ▁.
 ▁je ▁suis ▁désolée ▁de ▁t &apos; ▁en nu yer ▁mais ▁nous ▁avons ▁un ▁petit ▁problème ▁.
-▁j &apos; ▁adm ire ▁votre ▁dé termin ation ▁.
+▁j &apos; ▁admire ▁votre ▁dé termin ation ▁.
 ▁ils ▁sont ▁tous ▁all és ▁au ▁restaurant ▁.
 ▁je ▁suis ▁certain ▁de ▁pouvoir ▁persu ad er ▁Tom ▁.
 ▁je ▁t &apos; ▁ai ▁dit ▁qu &apos; ▁il ▁allait ▁faire ▁froid ▁ici ▁.
@@ -4621,7 +4621,7 @@
 ▁puis ▁@-@ ▁je ▁voir ▁votre ▁perm is ▁de ▁conduire ▁?
 ▁ceci ▁devrait ▁rés ou dre ▁tous ▁tes ▁problèmes ▁.
 ▁l &apos; ▁homme ▁qui ▁est ▁en ▁train ▁de ▁lire ▁le ▁journal ▁est ▁son ▁père ▁.
-▁je ▁ne ▁b ois ▁jamais ▁de ▁bière ▁avant ▁le ▁déjeuner ▁.
+▁je ▁ne ▁bo is ▁jamais ▁de ▁bière ▁avant ▁le ▁déjeuner ▁.
 ▁as ▁@-@ ▁tu ▁ré ussi ▁?
 ▁je ▁suis ▁un ▁étranger ▁ici ▁.
 ▁quelqu &apos; ▁un ▁lui ▁a ▁l anc é ▁un ▁ca ill ou ▁.
@@ -4667,7 +4667,7 @@
 ▁je ▁n &apos; ▁arrive ▁pas ▁à ▁croire ▁que ▁vous ▁mange z ▁ce ▁que ▁le ▁médecin ▁vous ▁a ▁pres c rit ▁de ▁ne ▁pas ▁manger ▁.
 ▁oui ▁, ▁mais ▁c &apos; ▁est ▁beaucoup ▁de ▁travail ▁.
 ▁elle ▁s &apos; ▁est ▁presque ▁év an ou ie ▁.
-▁combien ▁pour ▁l &apos; ▁exp ress ▁?
+▁combien ▁pour ▁l &apos; ▁express ▁?
 ▁mon ▁père ▁n &apos; ▁est ▁pas ▁à ▁la ▁maison ▁.
 ▁mon ▁livre ▁n &apos; ▁est ▁pas ▁là ▁.
 ▁c &apos; ▁est ▁seulement ▁à ▁ce ▁moment ▁que ▁j &apos; ▁ai ▁compris ▁ce ▁qu &apos; ▁il ▁voulait ▁dire ▁.
@@ -4832,7 +4832,7 @@
 ▁les ▁prem i ères ▁phot os ▁de ▁la ▁Terre ▁pris es ▁de ▁l &apos; ▁esp ace ▁s &apos; ▁emp ar èrent ▁de ▁l &apos; ▁imag ination ▁de ▁toute ▁une ▁géné ration ▁.
 ▁les ▁vo le urs ▁à ▁la ▁t ire ▁ci bl ent ▁les ▁tour istes ▁.
 ▁je ▁sais ▁que ▁vous ▁l &apos; ▁avez ▁fait ▁.
-▁cela ▁ressemble ▁à ▁l &apos; ▁eff et ▁d &apos; ▁un ▁vir us ▁.
+▁cela ▁ressemble ▁à ▁l &apos; ▁eff et ▁d &apos; ▁un ▁virus ▁.
 ▁n ique ▁ta ▁mère ▁, ▁chien ne ▁.
 ▁qui ▁ne ▁se ▁satisf ait ▁pas ▁de ▁peu ▁ne ▁se ▁satisf ait ▁de ▁rien ▁.
 ▁pourquoi ▁n &apos; ▁essa ies ▁@-@ ▁tu ▁pas ▁une ▁autre ▁p iste ▁?
@@ -4965,7 +4965,7 @@
 ▁tout ▁le ▁monde ▁dort ▁.
 ▁je ▁ne ▁l &apos; ▁ai ▁pas ▁vu ▁dernière ment ▁.
 ▁il ▁y ▁a ▁trois ▁ans ▁jour ▁pour ▁jour ▁, ▁Tom ▁et ▁moi ▁nous ▁sommes ▁mari és ▁.
-▁j &apos; ▁ai ▁lu ▁quelque ▁part ▁que ▁les ▁anim aux ▁sav ent ▁dé te cter ▁un ▁sé isme ▁avant ▁qu &apos; ▁il ▁ne ▁frapp e ▁.
+▁j &apos; ▁ai ▁lu ▁quelque ▁part ▁que ▁les ▁anim aux ▁sav ent ▁dé te ct er ▁un ▁sé isme ▁avant ▁qu &apos; ▁il ▁ne ▁frapp e ▁.
 ▁Jim my ▁a ▁ins ist é ▁pour ▁que ▁je ▁l &apos; ▁em m ène ▁au ▁z oo ▁.
 ▁le ▁pr ince ▁acc éd a ▁au ▁tr ô ne ▁.
 ▁ça ▁fait ▁longtemps ▁que ▁je ▁n &apos; ▁ai ▁pas ▁vu ▁de ▁li be ll ules ▁dans ▁cette ▁z one ▁.
@@ -5119,7 +5119,7 @@
 ▁tu ▁dois ▁apprendre ▁à ▁faire ▁attention ▁.
 ▁ &quot; ▁merci ▁ &quot; ▁. ▁ &quot; ▁de ▁rien ▁ &quot; ▁.
 ▁tu ▁as ▁l oup é ▁le ▁meeting ▁.
-▁j &apos; ▁ai ▁laissé ▁les ▁cl és ▁dans ▁le ▁cont act ▁.
+▁j &apos; ▁ai ▁laissé ▁les ▁cl és ▁dans ▁le ▁contact ▁.
 ▁où ▁se ▁trouv ent ▁les ▁toil ettes ▁?
 ▁puis ▁@-@ ▁je ▁n &apos; ▁acheter ▁que ▁les ▁l ent illes ▁?
 ▁conna ître ▁une ▁langue ▁est ▁une ▁chose ▁, ▁l &apos; ▁ense igner ▁en ▁est ▁une ▁autre ▁.
@@ -5128,7 +5128,7 @@
 ▁à ▁mon ▁av is ▁, ▁les ▁aff aires ▁v ont ▁mieux ▁.
 ▁Am use ▁@-@ ▁toi ▁bien ▁! ▁on ▁se ▁vo it ▁dans ▁une ▁heure ▁.
 ▁je ▁veux ▁savoir ▁ce ▁que ▁je ▁peux ▁faire ▁tout ▁de ▁su ite ▁.
-▁l &apos; ▁anglais ▁est ▁une ▁langue ▁riche ▁en ▁exp ress ions ▁id i om at iques ▁.
+▁l &apos; ▁anglais ▁est ▁une ▁langue ▁riche ▁en ▁express ions ▁id i om at iques ▁.
 ▁je ▁dois ▁me ▁sa per ▁.
 ▁appelle ▁@-@ ▁moi ▁si ▁tu ▁as ▁besoin ▁d &apos; ▁aide ▁.
 ▁t &apos; ▁es ▁@-@ ▁tu ▁ent ich ée ▁de ▁mon ▁frère ▁?
@@ -5320,7 +5320,7 @@
 ▁Tom ▁est ▁té m oin ▁?
 ▁vous ▁a ure z ▁une ▁autre ▁chance ▁.
 ▁qui ▁a ▁br û lé ▁le ▁g âteau ▁?
-▁pourquoi ▁ne ▁m &apos; ▁avez ▁@-@ ▁vous ▁pas ▁appel é ▁?
+▁pourquoi ▁ne ▁m &apos; ▁avez ▁@-@ ▁vous ▁pas ▁appelé ▁?
 ▁il ▁me ▁faut ▁p orter ▁davantage ▁d &apos; ▁attention ▁à ▁moi ▁@-@ ▁même ▁.
 ▁tous ▁dans ▁la ▁classe ▁app ri rent ▁le ▁po ème ▁par ▁cœur ▁.
 ▁dans ▁quelle ▁univers ité ▁crois ▁@-@ ▁tu ▁que ▁T ed ▁va ▁aller ▁?
@@ -5348,7 +5348,7 @@
 ▁dis ▁à ▁Tom ▁ce ▁que ▁Mary ▁t &apos; ▁a ▁dit ▁.
 ▁je ▁ne ▁peux ▁pas ▁te ▁dire ▁quel ▁h onne ur ▁c &apos; ▁est ▁pour ▁moi ▁.
 ▁Tom ▁a ▁bu ▁un ▁verre ▁d &apos; ▁eau ▁.
-▁il ▁pr it ▁le ▁b ois ▁et ▁le ▁s ci a ▁à ▁l &apos; ▁aide ▁de ▁la ▁sc ie ▁.
+▁il ▁pr it ▁le ▁bo is ▁et ▁le ▁s ci a ▁à ▁l &apos; ▁aide ▁de ▁la ▁sc ie ▁.
 ▁la ▁big am ie ▁, ▁c &apos; ▁est ▁quand ▁tu ▁as ▁une ▁femme ▁de ▁trop ▁.
 ▁il ▁n &apos; ▁est ▁pas ▁question ▁de ▁b â cl er ▁ce ▁travail ▁. ▁il ▁faut ▁que ▁ce ▁soit ▁bien ▁fait ▁.
 ▁vous ▁êtes ▁plus ▁grand s ▁qu &apos; ▁elle ▁.
@@ -5382,7 +5382,7 @@
 ▁t &apos; ▁as ▁cap té ▁?
 ▁la ▁B ir man ie ▁est ▁appel ée ▁ &quot; ▁M y an m ar ▁ &quot; ▁en ▁bir man ▁.
 ▁j &apos; ▁aimerais ▁l &apos; ▁essayer ▁.
-▁qu &apos; ▁est ▁@-@ ▁ce ▁qu &apos; ▁U S B ▁sign if ie ▁?
+▁qu &apos; ▁est ▁@-@ ▁ce ▁qu &apos; ▁US B ▁sign if ie ▁?
 ▁as ▁@-@ ▁tu ▁un ▁st y lo ▁que ▁je ▁pourrais ▁utiliser ▁?
 ▁ce ▁qu &apos; ▁a ▁fait ▁Mary ▁ne ▁m &apos; ▁a ▁pas ▁plu ▁.
 ▁il ▁y ▁a ▁quelques ▁y ach ts ▁sur ▁la ▁mer ▁cal me ▁.
@@ -5667,7 +5667,7 @@
 ▁c &apos; ▁est ▁beaucoup ▁plus ▁important ▁.
 ▁la ▁thé or ie ▁et ▁la ▁pr at ique ▁ne ▁v ont ▁pas ▁for cé ment ▁de ▁pa ir ▁.
 ▁c &apos; ▁est ▁un ▁art iste ▁c é lè bre ▁.
-▁je ▁vous ▁ai ▁appel é ▁.
+▁je ▁vous ▁ai ▁appelé ▁.
 ▁je an ▁est ▁le ▁plus ▁grand ▁des ▁deux ▁.
 ▁quand ▁y ▁êtes ▁@-@ ▁vous ▁par venu ▁?
 ▁j &apos; ▁ai ▁la ▁bar ak a ▁.
@@ -5679,7 +5679,7 @@
 ▁chez ▁lui ▁tout ▁est ▁pré co ce ▁, ▁aussi ▁bien ▁le ▁tal ent ▁que ▁la ▁cal v it ie ▁.
 ▁je ▁ne ▁dispose ▁pas ▁d &apos; ▁un ▁vérit able ▁choix ▁.
 ▁ça ▁m &apos; ▁a ▁fait ▁réfléch ir ▁.
-▁les ▁r and onne urs ▁do iv ent ▁emp orter ▁une ▁b ous s ole ▁avec ▁eux ▁pour ▁trouver ▁leur ▁chemin ▁à ▁travers ▁les ▁b ois ▁.
+▁les ▁r and onne urs ▁do iv ent ▁emp orter ▁une ▁b ous s ole ▁avec ▁eux ▁pour ▁trouver ▁leur ▁chemin ▁à ▁travers ▁les ▁bo is ▁.
 ▁prends ▁un ▁mou ch oir ▁, ▁ton ▁ne z ▁cou le ▁!
 ▁j &apos; ▁attend s ▁No ë l ▁avec ▁impat ience ▁.
 ▁je ▁déteste ▁l &apos; ▁hum our ▁noir ▁.
@@ -5835,7 +5835,7 @@
 ▁en ▁1 86 0 ▁, ▁L in c ol n ▁fut ▁é lu ▁Pr és ident ▁des ▁ É t ats ▁@-@ ▁Un is ▁d &apos; ▁Améri que ▁.
 ▁tous ▁y ▁sommes ▁all és ▁, ▁lui ▁except é ▁.
 ▁Tom ▁n &apos; ▁est ▁pas ▁prêt ▁à ▁partir ▁.
-▁si ▁tu ▁veux ▁épous er ▁ma ▁fille ▁, ▁tu ▁dois ▁res pe cter ▁nos ▁tra dit ions ▁fam il ial es ▁.
+▁si ▁tu ▁veux ▁épous er ▁ma ▁fille ▁, ▁tu ▁dois ▁respect er ▁nos ▁tra dit ions ▁fam il ial es ▁.
 ▁si ▁vous ▁oubl iez ▁un ▁jour ▁de ▁prendre ▁votre ▁p il ule ▁, ▁pren ez ▁@-@ ▁en ▁deux ▁le ▁jour ▁suiv ant ▁.
 ▁j &apos; ▁aurais ▁dû ▁vous ▁écout er ▁.
 ▁il ▁m &apos; ▁est ▁facile ▁de ▁rés ou dre ▁le ▁problème ▁.
@@ -5950,7 +5950,7 @@
 ▁Tom ▁ne ▁s &apos; ▁est ▁pas ▁le vé ▁aussi ▁tôt ▁qu &apos; ▁il ▁le ▁fait ▁habit ue llement ▁.
 ▁c &apos; ▁est ▁à ▁vous ▁de ▁prendre ▁la ▁déc ision ▁.
 ▁je ▁ne ▁peux ▁vivre ▁sans ▁toi ▁.
-▁votre ▁sœur ▁a ▁appel é ▁.
+▁votre ▁sœur ▁a ▁appelé ▁.
 ▁comment ▁s &apos; ▁appelle ▁ce ▁mor ce au ▁?
 ▁la ▁femme ▁que ▁ma ▁sœur ▁a ▁tu ée ▁devrait ▁être ▁pend ue ▁.
 ▁tu ▁semb les ▁avoir ▁un ▁fa ible ▁pour ▁Tom ▁.
@@ -6074,7 +6074,7 @@
 ▁avez ▁@-@ ▁vous ▁vu ▁un ▁bon ▁film ▁la ▁dernière ▁fois ▁?
 ▁Tom ▁a ▁vu ▁le ▁journal ▁sur ▁le ▁sol ▁et ▁l &apos; ▁a ▁ra m ass é ▁.
 ▁je ▁suis ▁dé çu ▁par ▁les ▁nouvelles ▁.
-▁les ▁scient if iques ▁se ▁dém è nent ▁pour ▁arrêter ▁la ▁prop ag ation ▁du ▁vir us ▁du ▁s ida ▁.
+▁les ▁scient if iques ▁se ▁dém è nent ▁pour ▁arrêter ▁la ▁prop ag ation ▁du ▁virus ▁du ▁s ida ▁.
 ▁C es sez ▁de ▁rê ver ▁et ▁ouv rez ▁les ▁yeux ▁.
 ▁j &apos; ▁ai ▁dés orm ais ▁un ▁autre ▁boulot ▁.
 ▁je ▁jou ais ▁au ▁tennis ▁avec ▁lui ▁le ▁dim anche ▁.
@@ -6139,7 +6139,7 @@
 ▁je ▁n &apos; ▁avais ▁pas ▁idée ▁que ▁vous ▁étiez ▁si ▁fer vent es ▁.
 ▁voici ▁un ▁c ade au ▁pour ▁toi ▁.
 ▁Tom ▁s &apos; ▁occup a ▁de ▁nos ▁enfants ▁.
-▁la ▁ven ue ▁des ▁sal ons ▁de ▁br on z age ▁int érie urs ▁perm et ▁maintenant ▁aux ▁C an ad iens ▁d &apos; ▁aff ic her ▁un ▁br on z age ▁toute ▁l &apos; ▁année ▁.
+▁la ▁ven ue ▁des ▁sal ons ▁de ▁br on z age ▁int érie urs ▁perm et ▁maintenant ▁aux ▁Can ad iens ▁d &apos; ▁aff ic her ▁un ▁br on z age ▁toute ▁l &apos; ▁année ▁.
 ▁les ▁sé par at istes ▁se ▁sont ▁mis ▁à ▁occup er ▁l &apos; ▁a éro port ▁.
 ▁je ▁ne ▁peux ▁pas ▁parler ▁à ▁Tom ▁.
 ▁allez ▁, ▁dis ▁@-@ ▁le ▁.
@@ -6186,7 +6186,7 @@
 ▁You T u be ▁est ▁une ▁ar na que ▁.
 ▁on ▁exam ine ▁tous ▁les ▁sac s ▁à ▁l &apos; ▁a éro port ▁.
 ▁es ▁@-@ ▁tu ▁absol u ment ▁sûr ▁que ▁ça ▁n &apos; ▁arriver a ▁pas ▁?
-▁le ▁chien ▁est ▁appel é ▁ &apos; ▁Sp ot ▁ &apos; ▁par ▁la ▁famille ▁.
+▁le ▁chien ▁est ▁appelé ▁ &apos; ▁Sp ot ▁ &apos; ▁par ▁la ▁famille ▁.
 ▁maintenant ▁comm ence ▁le ▁sp r int ▁fin al ▁.
 ▁Tom ▁fit ▁un ▁c â l in ▁à ▁son ▁chien ▁.
 ▁le ▁table au ▁est ▁derrière ▁le ▁professeur ▁.
@@ -6252,7 +6252,7 @@
 ▁j &apos; ▁aimerais ▁sortir ▁avec ▁vous ▁.
 ▁la ▁partie ▁au ra ▁lieu ▁, ▁qu &apos; ▁il ▁ple uve ▁ou ▁qu &apos; ▁il ▁f asse ▁beau ▁.
 ▁gr â ce ▁à ▁ses ▁efforts ▁, ▁il ▁atte int ▁son ▁object if ▁.
-▁Har ry ▁ré uss it ▁à ▁travers er ▁la ▁riv ière ▁à ▁la ▁n age ▁.
+▁H arry ▁ré uss it ▁à ▁travers er ▁la ▁riv ière ▁à ▁la ▁n age ▁.
 ▁la ▁stat ue ▁fut ▁constru ite ▁en ▁France ▁.
 ▁elles ▁ont ▁sout en u ▁son ▁droit ▁à ▁parler ▁libre ment ▁.
 ▁dans ▁ma ▁famille ▁, ▁personne ▁n &apos; ▁est ▁capable ▁de ▁faire ▁cela ▁.
@@ -6278,7 +6278,7 @@
 ▁il ▁se ▁pourrait ▁que ▁cela ▁se ▁passe ▁lun di ▁.
 ▁Tom ▁ne ▁pense ▁pas ▁que ▁je ▁sois ▁intéress ée ▁par ▁ce ▁qu &apos; ▁il ▁fait ▁.
 ▁le ▁viol on ▁, ▁le ▁piano ▁et ▁la ▁har pe ▁sont ▁des ▁instru ments ▁de ▁musique ▁.
-▁je ▁dois ▁penser ▁à ▁post er ▁cette ▁lettre ▁.
+▁je ▁dois ▁penser ▁à ▁po ster ▁cette ▁lettre ▁.
 ▁cette ▁enc re ▁est ▁la ▁meille ure ▁.
 ▁il ▁n &apos; ▁a ▁pas ▁répon du ▁à ▁ma ▁lettre ▁.
 ▁je ▁déteste ▁conduire ▁.
@@ -6310,7 +6310,7 @@
 ▁j &apos; ▁ai ▁entendu ▁parler ▁de ▁toi ▁.
 ▁je ▁ne ▁l &apos; ▁ai ▁pas ▁rev u ▁après ▁cela ▁.
 ▁est ▁@-@ ▁ce ▁que ▁ce ▁que ▁c &apos; ▁est ▁ce ▁que ▁Tom ▁a ▁dit ▁?
-▁il ▁a ▁appel é ▁à ▁l &apos; ▁aide ▁.
+▁il ▁a ▁appelé ▁à ▁l &apos; ▁aide ▁.
 ▁je ▁travaille ▁dans ▁le ▁d om aine ▁de ▁l &apos; ▁art ▁.
 ▁vous ▁devriez ▁le ▁voir ▁comme ▁une ▁opportun ité ▁.
 ▁ &quot; ▁puis ▁@-@ ▁je ▁parler ▁à ▁M . ▁N ak ag awa ▁? ▁ &quot; ▁ &quot; ▁c &apos; ▁est ▁moi ▁ &quot; ▁.
@@ -6401,7 +6401,7 @@
 ▁tu ▁crois ▁que ▁je ▁n &apos; ▁ai ▁pas ▁rem ar qué ▁?
 ▁S ha kes pe are ▁, ▁dont ▁les ▁piè ces ▁de ▁thé âtre ▁sont ▁con n ues ▁dans ▁le ▁monde ▁ent ier ▁, ▁a ▁vé cu ▁il ▁y ▁a ▁quatre ▁c ents ▁ans ▁.
 ▁je ▁pense ▁que ▁notre ▁chance ▁vient ▁de ▁s &apos; ▁ép uis er ▁.
-▁as ▁@-@ ▁tu ▁ré ussi ▁à ▁cont ac ter ▁Tom ▁?
+▁as ▁@-@ ▁tu ▁ré ussi ▁à ▁contact er ▁Tom ▁?
 ▁la ▁di ète ▁va ▁probable ment ▁am end er ▁cette ▁lo i ▁imp op ul aire ▁.
 ▁elle ▁a ▁qu ar ante ▁ans ▁.
 ▁as ▁@-@ ▁tu ▁jamais ▁mangé ▁à ▁ce ▁restaurant ▁@-@ ▁là ▁?
@@ -6436,7 +6436,7 @@
 ▁c &apos; ▁est ▁la ▁pom me ▁de ▁John ▁.
 ▁tu ▁n &apos; ▁es ▁pas ▁en ▁sécurité ▁, ▁ici ▁.
 ▁Tom ▁et ▁Marie ▁ont ▁é le vé ▁trois ▁enfants ▁.
-▁mon ▁frère ▁a ▁appel é ▁son ▁chat ▁H an ak o ▁.
+▁mon ▁frère ▁a ▁appelé ▁son ▁chat ▁H an ak o ▁.
 ▁des ▁mill iers ▁de ▁res s our ces ▁num éri ques ▁de ▁premier ▁plan ▁ont ▁été ▁publ i ées ▁sous ▁for mat ▁lis ible ▁par ▁des ▁mach ines ▁, ▁pour ▁une ▁cons ult ation ▁libre ▁par ▁le ▁public ▁, ▁sur ▁le ▁s ite ▁we b ▁d ata . go v ▁et ▁v ont ▁des ▁donné es ▁mé té or olog iques ▁aux ▁classe ments ▁de ▁sécurité ▁des ▁autom ob iles ▁et ▁au ▁coû t ▁des ▁pro cé d ures ▁de ▁santé ▁.
 ▁j &apos; ▁ignore ▁ce ▁qu &apos; ▁il ▁a ▁fait ▁mais ▁ça ▁a ▁fonction né ▁.
 ▁pourquoi ▁parl ons ▁@-@ ▁nous ▁encore ▁de ▁ça ▁?
@@ -6515,7 +6515,7 @@
 ▁vous ▁n &apos; ▁en ▁ret ire z ▁que ▁ce ▁que ▁vous ▁y ▁met tez ▁.
 ▁il ▁se ▁pré o cc u pe ▁de ▁la ▁santé ▁de ▁son ▁père ▁.
 ▁je ▁me ▁ré j ou is ▁de ▁le ▁voir ▁.
-▁est ▁@-@ ▁ce ▁qu &apos; ▁on ▁parle ▁anglais ▁au ▁C an ad a ▁?
+▁est ▁@-@ ▁ce ▁qu &apos; ▁on ▁parle ▁anglais ▁au ▁Can ad a ▁?
 ▁ce ▁cours ▁a ▁lieu ▁une ▁fois ▁par ▁semaine ▁.
 ▁le ▁vot e ▁est ▁un an ime ▁.
 ▁elle ▁lui ▁a ▁recomm and é ▁de ▁ne ▁pas ▁conduire ▁trop ▁vite ▁mais ▁il ▁a ▁ref usé ▁de ▁l &apos; ▁écout er ▁.
@@ -6889,7 +6889,7 @@
 ▁j &apos; ▁aurais ▁dû ▁vous ▁le ▁dire ▁.
 ▁j &apos; ▁ai ▁une ▁bonne ▁idée ▁.
 ▁aucun ▁disc ours ▁un ique ▁ne ▁peut ▁eff ac er ▁des ▁an né es ▁de ▁sus p ic ion ▁, ▁pas ▁plus ▁que ▁je ▁ne ▁peux ▁répon dre ▁, ▁dans ▁le ▁temps ▁dont ▁je ▁dispose ▁, ▁à ▁toutes ▁les ▁questions ▁comp lex es ▁qui ▁nous ▁ont ▁condu its ▁à ▁ce ▁point ▁.
-▁nous ▁avons ▁tous ▁des ▁p oin ts ▁for ts ▁diffé rents ▁.
+▁nous ▁avons ▁tous ▁des ▁po ints ▁for ts ▁diffé rents ▁.
 ▁j &apos; ▁aime ▁cuis iner ▁toute ▁sorte ▁de ▁nourriture ▁.
 ▁quand ▁il ▁est ▁venu ▁, ▁j &apos; ▁étais ▁en ▁train ▁d &apos; ▁écrire ▁une ▁lettre ▁.
 ▁la ▁déc ision ▁est ▁pend ante ▁.
@@ -7059,7 +7059,7 @@
 ▁je ▁n &apos; ▁oubl ier ai ▁jamais ▁la ▁po ign ée ▁de ▁main ▁avec ▁le ▁Pr és ident ▁l &apos; ▁année ▁dernière ▁.
 ▁qui ▁g agne ▁?
 ▁nous ▁sommes ▁tous ▁av ides ▁de ▁conna ître ▁la ▁vérité ▁.
-▁il ▁est ▁en ▁cont act ▁avec ▁toutes ▁sort es ▁de ▁gens ▁.
+▁il ▁est ▁en ▁contact ▁avec ▁toutes ▁sort es ▁de ▁gens ▁.
 ▁tu ▁n &apos; ▁as ▁pas ▁suff is amment ▁d &apos; ▁expérience ▁.
 ▁il ▁a ▁fait ▁ré fé rence ▁à ▁la ▁direct ri ce ▁pré cé d ente ▁.
 ▁R av ie ▁de ▁faire ▁ta ▁connaiss ance ▁.
@@ -7104,7 +7104,7 @@
 ▁il ▁vit ▁en ▁An gl et erre ▁.
 ▁je ▁n &apos; ▁ai ▁pas ▁l &apos; ▁habitude ▁de ▁parler ▁de ▁cette ▁v ul g aire ▁manière ▁.
 ▁êtes ▁@-@ ▁vous ▁prêt ▁pour ▁No ë l ▁?
-▁les ▁exp ress ions ▁et ▁les ▁sou ri res ▁chang ent ▁comme ▁ça ▁par ▁une ▁simple ▁app lic ation ▁de ▁rouge ▁à ▁l è vre ▁et ▁de ▁pou dre ▁.
+▁les ▁express ions ▁et ▁les ▁sou ri res ▁chang ent ▁comme ▁ça ▁par ▁une ▁simple ▁app lic ation ▁de ▁rouge ▁à ▁l è vre ▁et ▁de ▁pou dre ▁.
 ▁il ▁vaut ▁mieux ▁un ▁père ▁que ▁cent ▁ma ît res ▁d &apos; ▁école ▁.
 ▁tous ▁les ▁étudi ants ▁étud ient ▁l &apos; ▁anglais ▁.
 ▁ne ▁me ▁fais ▁pas ▁mar cher ▁!
@@ -7136,7 +7136,7 @@
 ▁elle ▁se ▁f ian ça ▁avec ▁lui ▁.
 ▁ils ▁ont ▁voy ag é ▁à ▁l &apos; ▁étranger ▁pour ▁la ▁première ▁fois ▁.
 ▁nous ▁avons ▁attend u ▁dur ant ▁des ▁heures ▁.
-▁ils ▁f urent ▁cont ra in ts ▁de ▁rem ettre ▁leur ▁dép art ▁.
+▁ils ▁f urent ▁cont ra ints ▁de ▁rem ettre ▁leur ▁dép art ▁.
 ▁as ▁@-@ ▁tu ▁vu ▁mon ▁chat ▁?
 ▁vous ▁inv ent ez ▁bien ▁, ▁vous ▁, ▁jeune ▁o is if ▁rid ic ule ▁.
 ▁c &apos; ▁est ▁tout ▁ce ▁que ▁je ▁veux ▁faire ▁.
@@ -7175,7 +7175,7 @@
 ▁ce ▁genre ▁de ▁personne ▁est ▁en nu y e ux ▁.
 ▁au ▁rev oir ▁, ▁S ay ok o ▁!
 ▁il ▁per dit ▁une ▁fortune ▁sur ▁le ▁marché ▁des ▁act ions ▁.
-▁l &apos; ▁art icle ▁ne uf ▁de ▁la ▁lo i ▁sur ▁les ▁esp è ces ▁en ▁danger ▁rend ▁ill ég al ▁le ▁pré lè ve ment ▁d &apos; ▁une ▁esp è ce ▁de ▁po isson ▁ou ▁de ▁vie ▁sa uv age ▁en ▁danger ▁.
+▁l &apos; ▁artic le ▁ne uf ▁de ▁la ▁lo i ▁sur ▁les ▁esp è ces ▁en ▁danger ▁rend ▁ill ég al ▁le ▁pré lè ve ment ▁d &apos; ▁une ▁esp è ce ▁de ▁po isson ▁ou ▁de ▁vie ▁sa uv age ▁en ▁danger ▁.
 ▁oui ▁, ▁c &apos; ▁était ▁é n or me ▁. ▁In c roy able ▁!
 ▁que ▁veux ▁@-@ ▁tu ▁voir ▁tant ▁que ▁tu ▁y ▁es ▁?
 ▁je ▁me ▁demande ▁si ▁quoi ▁que ▁ce ▁soit ▁lui ▁est ▁arrivé ▁.
@@ -7230,13 +7230,13 @@
 ▁pouvez ▁@-@ ▁vous ▁me ▁mon trer ▁?
 ▁nous ▁part ici per ons ▁au ▁mar ath on ▁.
 ▁quel ▁est ▁votre ▁di agn ost ic ▁?
-▁un ▁jour ▁, ▁les ▁U S A ▁é l ir ont ▁une ▁femme ▁prés ident e ▁, ▁et ▁ce ▁ne ▁sera ▁pas ▁beau ▁à ▁voir ▁.
+▁un ▁jour ▁, ▁les ▁US A ▁é l ir ont ▁une ▁femme ▁prés ident e ▁, ▁et ▁ce ▁ne ▁sera ▁pas ▁beau ▁à ▁voir ▁.
 ▁si ▁tu ▁dis ▁à ▁Tom ▁ce ▁qu &apos; ▁il ▁faut ▁faire ▁, ▁il ▁le ▁f era ▁.
 ▁cet ▁animal ▁est ▁à ▁moi ▁.
 ▁c &apos; ▁est ▁le ▁premier ▁av r il ▁.
 ▁il ▁s &apos; ▁hab itu era ▁bientôt ▁au ▁clim at ▁d &apos; ▁ici ▁.
 ▁quelle ▁sorte ▁de ▁personne ▁suis ▁@-@ ▁je ▁?
-▁j &apos; ▁adm ire ▁votre ▁ignor ance ▁.
+▁j &apos; ▁admire ▁votre ▁ignor ance ▁.
 ▁si ▁je ▁fo ire ▁, ▁quel ▁est ▁le ▁p ire ▁qui ▁puisse ▁ad venir ▁?
 ▁ce ▁que ▁tu ▁as ▁fait ▁à ▁Tom ▁était ▁cr uel ▁.
 ▁ce ▁gr ou pe ▁de ▁rock ▁me ▁f ile ▁mal ▁au ▁cr â ne ▁.
@@ -7283,7 +7283,7 @@
 ▁c &apos; ▁est ▁sa ▁maison ▁.
 ▁fumer ▁dét éri ore ▁ta ▁santé ▁.
 ▁où ▁te ▁ren ds ▁@-@ ▁tu ▁?
-▁ta ▁sœur ▁a ▁appel é ▁.
+▁ta ▁sœur ▁a ▁appelé ▁.
 ▁ils ▁nous ▁ont ▁vu es ▁alors ▁qu &apos; ▁ils ▁étaient ▁en ▁train ▁de ▁desc end re ▁du ▁train ▁.
 ▁il ▁veut ▁éc ras er ▁la ▁best i ole ▁.
 ▁je ▁compren ds ▁tes ▁sent iments ▁.
@@ -7423,7 +7423,7 @@
 ▁je ▁suppose ▁que ▁vous ▁voulez ▁me ▁demand er ▁où ▁j &apos; ▁ai ▁été ▁.
 ▁c &apos; ▁est ▁lui ▁qui ▁a ▁cass é ▁la ▁fenêtre ▁hier ▁.
 ▁C ou rez ▁aussi ▁vite ▁que ▁vous ▁pouvez ▁et ▁ne ▁me ▁l âche z ▁pas ▁la ▁main ▁!
-▁quand ▁pensais ▁@-@ ▁tu ▁re venir ▁aux ▁U S A ▁?
+▁quand ▁pensais ▁@-@ ▁tu ▁re venir ▁aux ▁US A ▁?
 ▁le ▁pauvre ▁vie ill ard ▁était ▁ré du it ▁à ▁l &apos; ▁ét at ▁de ▁squ el ette ▁.
 ▁où ▁est ▁mon ▁téléphone ▁?
 ▁Tom ▁ne ▁pourrait ▁pas ▁faire ▁une ▁telle ▁chose ▁.
@@ -7531,7 +7531,7 @@
 ▁ Q uel s ▁al iments ▁, ▁s &apos; ▁il ▁y ▁en ▁a ▁, ▁év ite z ▁@-@ ▁vous ▁de ▁manger ▁?
 ▁je ▁ne ▁suis ▁pas ▁aussi ▁occupé ▁que ▁Tom ▁.
 ▁j &apos; ▁ignore ▁comment ▁le ▁faire ▁.
-▁cet ▁art icle ▁rid icul ise ▁les ▁vé gé t ar iens ▁.
+▁cet ▁artic le ▁rid icul ise ▁les ▁vé gé t ar iens ▁.
 ▁avez ▁@-@ ▁vous ▁pris ▁l &apos; ▁argent ▁?
 ▁Sami ▁a ▁recon nu ▁l &apos; ▁homme ▁sur ▁la ▁photo ▁.
 ▁nous ▁devrions ▁tout ▁simplement ▁prof iter ▁de ▁cela ▁et ▁ne ▁pas ▁vous ▁sou cier ▁de ▁combien ▁il ▁en ▁coû te ▁.
@@ -7619,7 +7619,7 @@
 ▁je ▁n &apos; ▁étais ▁pas ▁de ▁service ▁à ▁ce ▁moment ▁.
 ▁l &apos; ▁homme ▁n &apos; ▁a ▁jamais ▁dit ▁à ▁la ▁police ▁quelle ▁était ▁sa ▁dest ination ▁.
 ▁voici ▁mes ▁filles ▁.
-▁elle ▁a ▁gu éri ▁sa ▁g ue ule ▁de ▁b ois ▁en ▁dorm ant ▁.
+▁elle ▁a ▁gu éri ▁sa ▁g ue ule ▁de ▁bo is ▁en ▁dorm ant ▁.
 ▁je ▁ne ▁suis ▁pas ▁hab itu é ▁à ▁me ▁le ver ▁tôt ▁.
 ▁je ▁n &apos; ▁arrive ▁pas ▁à ▁croire ▁que ▁je ▁ne ▁me ▁f asse ▁pas ▁v irer ▁.
 ▁je ▁peux ▁y ▁regarder ▁pour ▁toi ▁.
@@ -7816,7 +7816,7 @@
 ▁c &apos; ▁est ▁nous ▁qui ▁sommes ▁les ▁vérit ables ▁hé ros ▁.
 ▁tu ▁es ▁sa uf ▁.
 ▁l &apos; ▁anglais ▁est ▁un ▁lang age ▁mon di al ▁.
-▁tu ▁es ▁C an ad ien ▁, ▁n &apos; ▁est ▁@-@ ▁ce ▁pas ▁?
+▁tu ▁es ▁Can ad ien ▁, ▁n &apos; ▁est ▁@-@ ▁ce ▁pas ▁?
 ▁l &apos; ▁In de ▁est ▁d ensé ment ▁pe up l ée ▁.
 ▁on ▁se ▁demande ▁pourquoi ▁.
 ▁Tom ▁a ▁décidé ▁de ▁diffé rer ▁son ▁dép art ▁.
@@ -7830,9 +7830,9 @@
 ▁ce ▁n &apos; ▁est ▁pas ▁ce ▁qu &apos; ▁il ▁a ▁dit ▁, ▁mais ▁la ▁manière ▁dont ▁il ▁l &apos; ▁a ▁dit ▁.
 ▁elles ▁l ou èrent ▁une ▁maison ▁.
 ▁je ▁peux ▁probable ment ▁faire ▁ça ▁.
-▁ces ▁table aux ▁ont ▁été ▁pe in ts ▁par ▁lui ▁.
+▁ces ▁table aux ▁ont ▁été ▁pe ints ▁par ▁lui ▁.
 ▁c &apos; ▁est ▁hors ▁de ▁question ▁.
-▁rappe lez ▁@-@ ▁moi ▁, ▁s &apos; ▁il ▁vous ▁plaît ▁, ▁de ▁post er ▁la ▁lettre ▁.
+▁rappe lez ▁@-@ ▁moi ▁, ▁s &apos; ▁il ▁vous ▁plaît ▁, ▁de ▁po ster ▁la ▁lettre ▁.
 ▁peut ▁@-@ ▁être ▁peut ▁@-@ ▁elle ▁t &apos; ▁en ▁dire ▁plus ▁.
 ▁j &apos; ▁ai ▁les ▁cl és ▁.
 ▁je ▁ne ▁le ▁fais ▁que ▁pour ▁votre ▁bien ▁à ▁vous ▁.
@@ -8330,7 +8330,7 @@
 ▁oubl iez ▁!
 ▁Tom ▁était ▁amoureux ▁de ▁Mar ia ▁, ▁mais ▁elle ▁ne ▁voulait ▁rien ▁savoir ▁de ▁lui ▁.
 ▁l &apos; ▁homme ▁est ▁déc éd é ▁il ▁y ▁a ▁quelques ▁heures ▁.
-▁j &apos; ▁adm ire ▁la ▁pers é vé r ance ▁de ▁Tom ▁.
+▁j &apos; ▁admire ▁la ▁pers é vé r ance ▁de ▁Tom ▁.
 ▁elle ▁est ▁att ir ée ▁par ▁les ▁hommes ▁plus ▁â g és ▁.
 ▁tout ▁s &apos; ▁arr ang era ▁.
 ▁la ▁fonction ▁T ick D is pl ay ▁doit ▁être ▁appel ée ▁à ▁chaque ▁fra me ▁pour ▁que ▁l &apos; ▁anim ation ▁soit ▁jou ée ▁.
@@ -8466,7 +8466,7 @@
 ▁F il ons ▁!
 ▁il ▁faut ▁que ▁j &apos; ▁y ▁a ille ▁maintenant ▁.
 ▁elle ▁était ▁sens ible ment ▁br on z ée ▁après ▁ses ▁vacances ▁.
-▁le ▁b ois ▁était ▁très ▁som bre ▁et ▁elle ▁ne ▁pouvait ▁s &apos; ▁emp êcher ▁de ▁tre mb ler ▁de ▁peur ▁.
+▁le ▁bo is ▁était ▁très ▁som bre ▁et ▁elle ▁ne ▁pouvait ▁s &apos; ▁emp êcher ▁de ▁tre mb ler ▁de ▁peur ▁.
 ▁le ▁g ey s er ▁prop ul se ▁une ▁col onne ▁d &apos; ▁eau ▁cha ude ▁toutes ▁les ▁deux ▁heures ▁.
 ▁les ▁œ uf s ▁sont ▁encore ▁chaud s ▁.
 ▁un ▁tre mble ment ▁de ▁terre ▁de ▁mag n itude ▁5 ▁a ▁frapp é ▁Tokyo ▁.
@@ -8590,7 +8590,7 @@
 ▁j &apos; ▁avais ▁quelques ▁questions ▁mais ▁je ▁ne ▁les ▁ai ▁pas ▁pos ées ▁.
 ▁la ▁log ique ▁f é min ine ▁n &apos; ▁est ▁pas ▁toujours ▁log ique ▁.
 ▁quand ▁nous ▁avons ▁dém ar ré ▁, ▁notre ▁gr ou pe ▁ne ▁pouvait ▁trouver ▁que ▁des ▁petit es ▁sa lles ▁dans ▁de ▁petit es ▁v illes ▁pour ▁nous ▁eng ager ▁.
-▁vous ▁devriez ▁res pe cter ▁les ▁r è gl es ▁que ▁vos ▁parents ▁vous ▁ont ▁fix ées ▁.
+▁vous ▁devriez ▁respect er ▁les ▁r è gl es ▁que ▁vos ▁parents ▁vous ▁ont ▁fix ées ▁.
 ▁ne ▁parle ▁pas ▁à ▁Tom ▁de ▁ce ▁que ▁nous ▁prév oy ons ▁de ▁faire ▁le ▁week ▁@-@ ▁end ▁prochain ▁.
 ▁je ▁t &apos; ▁ai ▁dit ▁que ▁j &apos; ▁ai ▁une ▁n ana ▁.
 ▁j &apos; ▁ai ▁immédiatement ▁besoin ▁de ▁toi ▁.
@@ -8636,7 +8636,7 @@
 ▁c &apos; ▁est ▁aff reux ▁!
 ▁je ▁déteste ▁lorsque ▁mes ▁parents ▁se ▁bat t ent ▁.
 ▁celui ▁qui ▁ne ▁travaille ▁pas ▁n &apos; ▁a ▁pas ▁le ▁droit ▁de ▁manger ▁.
-▁res tez ▁en ▁cont act ▁.
+▁res tez ▁en ▁contact ▁.
 ▁je ▁sais ▁que ▁Tom ▁va ▁bien ▁maintenant ▁.
 ▁Tom ▁a ▁dit ▁qu &apos; ▁il ▁essayer ait ▁.
 ▁nous ▁devons ▁cor ri ger ▁ces ▁prés om pt ions ▁er ron ées ▁.
@@ -8768,7 +8768,7 @@
 ▁de ▁qui ▁es ▁@-@ ▁tu ▁le ▁plus ▁pro che ▁dans ▁ta ▁famille ▁?
 ▁vous ▁êtes ▁p ire ▁que ▁Tom ▁.
 ▁les ▁A lle m and s ▁ont ▁@-@ ▁ils ▁d &apos; ▁autres ▁pré o cc up ations ▁dans ▁la ▁vie ▁à ▁part ▁le ▁cons um ér isme ▁?
-▁tu ▁ne ▁devrais ▁pas ▁res pe cter ▁un ▁homme ▁seulement ▁parce ▁qu &apos; ▁il ▁est ▁riche ▁.
+▁tu ▁ne ▁devrais ▁pas ▁respect er ▁un ▁homme ▁seulement ▁parce ▁qu &apos; ▁il ▁est ▁riche ▁.
 ▁la ▁cha ise ▁é m it ▁un ▁cra que ment ▁lorsqu &apos; ▁il ▁s &apos; ▁ass it ▁.
 ▁il ▁exp r im a ▁sa ▁f oi ▁en ▁son ▁hon n êt et é ▁.
 ▁eux ▁seul s ▁compren nent ▁ce ▁qu &apos; ▁ils ▁dis ent ▁.
@@ -8795,7 +8795,7 @@
 ▁vous ▁êtes ▁par ano ï a que ▁.
 ▁je ▁suis ▁chance use ▁de ▁vous ▁avoir ▁pour ▁ami ▁.
 ▁je ▁dois ▁dire ▁que ▁je ▁suis ▁désolé ▁.
-▁j &apos; ▁adm ire ▁ses ▁efforts ▁.
+▁j &apos; ▁admire ▁ses ▁efforts ▁.
 ▁nous ▁ne ▁pouvons ▁appro cher ▁l &apos; ▁en ne m i ▁.
 ▁il ▁ex iste ▁de ▁nombre uses ▁éto iles ▁plus ▁grand es ▁que ▁notre ▁propre ▁S ole il ▁.
 ▁ils ▁ne ▁sont ▁pas ▁plus ▁stup ides ▁que ▁vous ▁.
@@ -8995,7 +8995,7 @@
 ▁tu ▁fais ▁la ▁vais se lle ▁.
 ▁ça ▁ne ▁rés oud ra ▁pas ▁quoi ▁que ▁ce ▁soit ▁.
 ▁T ony ▁rend ait ▁parfois ▁vis ite ▁à ▁sa ▁famille ▁.
-▁l &apos; ▁intellig ence ▁art ific ie lle ▁est ▁maintenant ▁capable ▁de ▁colle cter ▁des ▁inform ations ▁depuis ▁les ▁ré se aux ▁soci aux ▁et ▁intern et ▁af in ▁d &apos; ▁aider ▁les ▁des ign ers ▁à ▁comprendre ▁ce ▁que ▁le ▁public ▁aime ▁.
+▁l &apos; ▁intellig ence ▁art ific ie lle ▁est ▁maintenant ▁capable ▁de ▁colle ct er ▁des ▁inform ations ▁depuis ▁les ▁ré se aux ▁soci aux ▁et ▁intern et ▁af in ▁d &apos; ▁aider ▁les ▁des ign ers ▁à ▁comprendre ▁ce ▁que ▁le ▁public ▁aime ▁.
 ▁j &apos; ▁aime ▁voy ager ▁.
 ▁Tom ▁a ▁une ▁brill ante ▁car ri ère ▁en ▁tant ▁que ▁médecin ▁.
 ▁les ▁fou les ▁ont ▁en va h i ▁les ▁r ues ▁en ▁port ant ▁des ▁ban n i ères ▁.
@@ -9011,7 +9011,7 @@
 ▁la ▁grand ▁@-@ ▁mère ▁de ▁Tom ▁semble ▁être ▁en ▁bonne ▁santé ▁.
 ▁ils ▁sont ▁tous ▁là ▁@-@ ▁de d ans ▁.
 ▁il ▁y ▁a ▁quelques ▁an né es ▁vol er ▁était ▁p al p it ant ▁. ▁maintenant ▁c &apos; ▁est ▁juste ▁une ▁ép ine ▁dans ▁le ▁pied ▁!
-▁j &apos; ▁adm ire ▁votre ▁pers é vé r ance ▁et ▁votre ▁dé termin ation ▁.
+▁j &apos; ▁admire ▁votre ▁pers é vé r ance ▁et ▁votre ▁dé termin ation ▁.
 ▁il ▁lui ▁don na ▁un ▁b ais er ▁sur ▁la ▁joue ▁.
 ▁nos ▁invit és ▁sont ▁press és ▁.
 ▁il ▁se ▁mit ▁au ▁lit ▁.
@@ -9218,7 +9218,7 @@
 ▁vous ▁devriez ▁la ver ▁les ▁fr u its ▁avant ▁de ▁les ▁manger ▁.
 ▁Tom ▁a ▁vers é ▁une ▁t asse ▁de ▁café ▁à ▁Mary ▁.
 ▁il ▁s &apos; ▁est ▁end orm i ▁dur ant ▁le ▁cours ▁.
-▁met s ▁les ▁œ uf s ▁dans ▁le ▁réf rig ér ateur ▁.
+▁met s ▁les ▁œ uf s ▁dans ▁le ▁réf ri g ér ateur ▁.
 ▁je ▁veux ▁une ▁dou che ▁cha ude ▁avant ▁de ▁retour ner ▁au ▁travail ▁.
 ▁j &apos; ▁adm is ▁qu &apos; ▁elle ▁avait ▁raison ▁.
 ▁ne ▁vous ▁l &apos; ▁avais ▁@-@ ▁je ▁pas ▁dit ▁?
@@ -9317,7 +9317,7 @@
 ▁arr ête ▁de ▁r on ch on ner ▁, ▁et ▁viens ▁plutôt ▁boire ▁un ▁coup ▁avec ▁nous ▁, ▁ça ▁te ▁chang era ▁les ▁id ées ▁.
 ▁nous ▁sommes ▁presque ▁prêt s ▁.
 ▁combien ▁de ▁temps ▁d urent ▁tes ▁vacances ▁de ▁prin temps ▁?
-▁ils ▁vend ent ▁diffé rent es ▁sort es ▁d &apos; ▁art ic les ▁dans ▁ce ▁magasin ▁.
+▁ils ▁vend ent ▁diffé rent es ▁sort es ▁d &apos; ▁artic les ▁dans ▁ce ▁magasin ▁.
 ▁je ▁ne ▁suis ▁pas ▁d &apos; ▁h umeur ▁à ▁aller ▁au ▁cent re ▁@-@ ▁ville ▁.
 ▁n &apos; ▁importe ▁quelle ▁t âche ▁peut ▁de venir ▁p én ible ▁.
 ▁il ▁veut ▁épous er ▁ma ▁fille ▁.
@@ -9415,7 +9415,7 @@
 ▁vous ▁devez ▁travailler ▁, ▁pas ▁penser ▁.
 ▁nous ▁n &apos; ▁avons ▁pas ▁assez ▁de ▁force ▁pour ▁suiv re ▁toute ▁notre ▁raison ▁.
 ▁elle ▁r â le ▁tout ▁le ▁temps ▁.
-▁Tom ▁mar cha ▁sur ▁la ▁p oin te ▁des ▁pied s ▁jusqu &apos; ▁à ▁la ▁chambre ▁pour ▁év iter ▁de ▁ré ve iller ▁sa ▁femme ▁.
+▁Tom ▁mar cha ▁sur ▁la ▁po in te ▁des ▁pied s ▁jusqu &apos; ▁à ▁la ▁chambre ▁pour ▁év iter ▁de ▁ré ve iller ▁sa ▁femme ▁.
 ▁tou che z ▁ça ▁!
 ▁je ▁suis ▁tomb é ▁amou re use ▁de ▁toi ▁.
 ▁t iens ▁le ▁v ase ▁avec ▁les ▁deux ▁mains ▁.
@@ -9584,7 +9584,7 @@
 ▁à ▁t &apos; ▁entendre ▁, ▁tu ▁n &apos; ▁as ▁pas ▁l &apos; ▁air ▁très ▁surprise ▁.
 ▁Tom ▁est ▁agent ▁de ▁sécurité ▁à ▁l &apos; ▁a éro port ▁.
 ▁ce ▁fut ▁l &apos; ▁un ▁des ▁meille urs ▁mom ents ▁de ▁ma ▁vie ▁.
-▁je ▁ne ▁b ois ▁pas ▁beaucoup ▁de ▁bière ▁.
+▁je ▁ne ▁bo is ▁pas ▁beaucoup ▁de ▁bière ▁.
 ▁je ▁suis ▁tellement ▁ép uis é ▁!
 ▁ne ▁me ▁parle ▁jamais ▁plus ▁!
 ▁comme ▁il ▁s &apos; ▁exc it ait ▁, ▁il ▁parl ait ▁de ▁plus ▁en ▁plus ▁vite ▁.
@@ -9864,7 +9864,7 @@
 ▁quand ▁l &apos; ▁école ▁n &apos; ▁avait ▁ni ▁livres ▁ni ▁pap iers ▁ni ▁cr ay ons ▁, ▁elle ▁écri v ait ▁l &apos; ▁al p ha b et ▁sur ▁le ▁sol ▁à ▁l &apos; ▁aide ▁d &apos; ▁un ▁b â ton ▁.
 ▁il ▁a ▁c ess é ▁de ▁boire ▁.
 ▁il ▁n &apos; ▁est ▁plus ▁celui ▁qu &apos; ▁il ▁était ▁.
-▁est ▁@-@ ▁ce ▁que ▁Tom ▁t &apos; ▁a ▁appel é ▁hier ▁soir ▁?
+▁est ▁@-@ ▁ce ▁que ▁Tom ▁t &apos; ▁a ▁appelé ▁hier ▁soir ▁?
 ▁êtes ▁@-@ ▁vous ▁occupé ▁vend red i ▁soir ▁?
 ▁je ▁lui ▁ai ▁parlé ▁.
 ▁c &apos; ▁est ▁ex tr ê me ment ▁important ▁.
@@ -9907,7 +9907,7 @@
 ▁il ▁ne ▁sort ▁jamais ▁la ▁nuit ▁tomb ée ▁.
 ▁je ▁suis ▁acc ro ▁à ▁la ▁n ic ot ine ▁.
 ▁je ▁dés ire ▁une ▁chambre ▁à ▁deux ▁l its ▁.
-▁ces ▁art ic les ▁ne ▁sont ▁pas ▁éch ange ables ▁.
+▁ces ▁artic les ▁ne ▁sont ▁pas ▁éch ange ables ▁.
 ▁je ▁viens ▁juste ▁de ▁rencontrer ▁la ▁plus ▁belle ▁femme ▁que ▁j &apos; ▁ai ▁jamais ▁vue ▁.
 ▁Ex c use z ▁@-@ ▁moi ▁, ▁je ▁me ▁suis ▁perdu ▁.
 ▁je ▁ne ▁sais ▁pas ▁où ▁se ▁trouv ent ▁mes ▁cl és ▁.

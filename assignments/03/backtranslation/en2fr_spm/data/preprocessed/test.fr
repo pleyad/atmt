@@ -4,7 +4,7 @@
 ▁il ▁ab use ▁de ▁son ▁autor ité ▁.
 ▁il ▁est ▁plus ▁grand ▁que ▁tous ▁les ▁autres ▁garçons ▁.
 ▁j &apos; ▁aimerais ▁que ▁Jim ▁se ▁comp orte ▁bien ▁.
-▁je ▁ne ▁b ois ▁pas ▁de ▁vin ▁.
+▁je ▁ne ▁bo is ▁pas ▁de ▁vin ▁.
 ▁sa ▁maison ▁est ▁@-@ ▁elle ▁en ▁aucune ▁manière ▁pro che ▁de ▁la ▁g are ▁?
 ▁Tom ▁est ▁plus ▁intelligent ▁que ▁moi ▁.
 ▁il ▁n &apos; ▁y ▁a ▁pas ▁d &apos; ▁ur g ence ▁.
@@ -447,7 +447,7 @@
 ▁vous ▁avez ▁un ▁cal end ri er ▁difficile ▁à ▁ten ir ▁.
 ▁elle ▁a ▁grand i ▁dans ▁une ▁b our g ade ▁.
 ▁la ▁bou gie ▁s &apos; ▁é te ign it ▁d &apos; ▁elle ▁@-@ ▁même ▁.
-▁les ▁ex tra ▁@-@ ▁ter rest res ▁sont ▁souvent ▁dé pe in ts ▁avec ▁des ▁yeux ▁noir s ▁en ▁am and es ▁.
+▁les ▁ex tra ▁@-@ ▁ter rest res ▁sont ▁souvent ▁dé pe ints ▁avec ▁des ▁yeux ▁noir s ▁en ▁am and es ▁.
 ▁qu &apos; ▁est ▁@-@ ▁il ▁arrivé ▁au ▁chien ▁?
 ▁est ▁@-@ ▁ce ▁que ▁ce ▁si è ge ▁est ▁libre ▁?
 ▁je ▁n &apos; ▁arrive ▁pas ▁à ▁croire ▁qu &apos; ▁il ▁vous ▁a it ▁emb rass ée ▁.

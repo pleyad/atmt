@@ -27,8 +27,11 @@ cat $data/raw/train.$tgt | perl moses_scripts/normalize-punctuation.perl -l $tgt
 cat $data/raw/en-10k.txt | perl moses_scripts/normalize-punctuation.perl -l $src | perl moses_scripts/tokenizer.perl -l $src -a -q > $data/preprocessed/en-10k.p
 
 # train truecase models
-perl moses_scripts/train-truecaser.perl --model $data/preprocessed/tm.$src --corpus $data/preprocessed/train.$src.p --corpus $data/preprocessed/en-10k.p
+cat $data/preprocessed/train.$src.p $data/preprocessed/en-10k.p > $data/preprocessed/doubletrouble.p
+perl moses_scripts/train-truecaser.perl --model $data/preprocessed/tm.$src --corpus $data/preprocessed/doubletrouble.p
+# perl moses_scripts/train-truecaser.perl --model $data/preprocessed/tm.$src --corpus $data/preprocessed/train.$src.p --corpus $data/preprocessed/en-10k.p
 perl moses_scripts/train-truecaser.perl --model $data/preprocessed/tm.$tgt --corpus $data/preprocessed/train.$tgt.p
+rm $data/preprocessed/doubletrouble.p
 
 # apply truecase models to splits
 cat $data/preprocessed/train.$src.p | perl moses_scripts/truecase.perl --model $data/preprocessed/tm.$src > $data/preprocessed/train.$src.prepieced
@@ -56,12 +59,12 @@ do
 done
 
 # remove tmp files
-rm $data/preprocessed/train.$tgt.p
-rm $data/preprocessed/train.$src.prepieced
-rm $data/preprocessed/train.$src.p
-rm $data/preprocessed/train.$tgt.prepieced
-rm $data/preprocessed/en-10k.p
-rm $data/preprocessed/en-10k.prepieced
+#rm $data/preprocessed/train.$tgt.p
+#rm $data/preprocessed/train.$src.prepieced
+#rm $data/preprocessed/train.$src.p
+#rm $data/preprocessed/train.$tgt.prepieced
+#rm $data/preprocessed/en-10k.p
+#rm $data/preprocessed/en-10k.prepieced
 
 # preprocess all files for model training
 python preprocess.py --target-lang $tgt --source-lang $src --dest-dir $data/prepared/ --train-prefix $data/preprocessed/train --valid-prefix $data/preprocessed/valid --test-prefix $data/preprocessed/test --tiny-train-prefix $data/preprocessed/tiny_train --threshold-src 1 --threshold-tgt 1 --num-words-src 4000 --num-words-tgt 4000

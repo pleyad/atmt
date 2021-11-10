@@ -65,7 +65,7 @@ def main(args):
         if not args.quiet:
             logging.info('Loaded a source dictionary ({}) with {} words'.format(args.source_lang, len(src_dict)))
 
-    make_binary_dataset(args.file_path, os.path.join(args.dest_dir, 'train.' + args.source_lang), src_dict)
+    make_binary_dataset(args.file_path, os.path.join(args.dest_dir, 'deploy.' + args.source_lang), src_dict)
 
 #    if not args.vocab_trg:
 #        tgt_dict = build_dictionary([args.train_prefix + '.' + args.target_lang])

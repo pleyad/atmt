@@ -17,7 +17,7 @@
 ▁mais ▁vous ▁ne ▁pouvez ▁comprendre ▁. ▁comment ▁pourriez ▁@-@ ▁vous ▁comprendre ▁ce ▁que ▁c &apos; ▁est ▁que ▁de ▁se ▁sent ir ▁vie ille ▁?
 ▁pourquoi ▁est ▁@-@ ▁ce ▁que ▁je ▁te ▁crois ▁?
 ▁tu ▁ép ar p ill ais ▁tes ▁aff aires ▁.
-▁ces ▁en ce in tes ▁ont ▁une ▁bonne ▁ré ver b ér ation ▁.
+▁ces ▁en ce int es ▁ont ▁une ▁bonne ▁ré ver b ér ation ▁.
 ▁ils ▁étaient ▁pend us ▁à ▁ses ▁l è v res ▁.
 ▁au ▁lieu ▁de ▁vous ▁plain dre ▁, ▁vous ▁devriez ▁peut ▁@-@ ▁être ▁aider ▁.
 ▁je ▁pense ▁que ▁nous ▁pouvons ▁gé rer ▁cela ▁.
@@ -117,7 +117,7 @@
 ▁de ▁combien ▁de ▁four che t tes ▁as ▁@-@ ▁tu ▁besoin ▁?
 ▁j &apos; ▁ai ▁rare ment ▁vu ▁un ▁d an se ur ▁aussi ▁gra c ieux ▁.
 ▁j &apos; ▁ai ▁l oup é ▁une ▁autre ▁chance ▁.
-▁je ▁ne ▁sais ▁pas ▁comment ▁prendre ▁cont act ▁avec ▁vous ▁.
+▁je ▁ne ▁sais ▁pas ▁comment ▁prendre ▁contact ▁avec ▁vous ▁.
 ▁voulez ▁@-@ ▁vous ▁vous ▁jo indre ▁à ▁moi ▁pour ▁déjeuner ▁?
 ▁toutes ▁ces ▁let tres ▁vous ▁sont ▁ad ress ées ▁.
 ▁Tom ▁savait ▁où ▁il ▁avait ▁mis ▁ses ▁cl és ▁.
@@ -199,12 +199,12 @@
 ▁quand ▁avez ▁@-@ ▁vous ▁l &apos; ▁intention ▁de ▁commenc er ▁?
 ▁pourquoi ▁les ▁éto iles ▁sc int ill ent ▁@-@ ▁elles ▁?
 ▁quand ▁je ▁suis ▁arrivé ▁à ▁la ▁maison ▁, ▁il ▁regard ait ▁la ▁télévision ▁.
-▁elle ▁l &apos; ▁a ▁appel é ▁Char les ▁.
+▁elle ▁l &apos; ▁a ▁appelé ▁Char les ▁.
 ▁elle ▁chant a ▁mieux ▁que ▁lui ▁.
 ▁j &apos; ▁ai ▁fait ▁une ▁propos ition ▁.
 ▁que ▁prév oy ez ▁@-@ ▁vous ▁de ▁faire ▁ce ▁soir ▁?
 ▁je ▁cra ins ▁que ▁vous ▁ne ▁puiss iez ▁pas ▁faire ▁cela ▁.
-▁il ▁y ▁a ▁du ▁lait ▁dans ▁le ▁réf rig ér ateur ▁.
+▁il ▁y ▁a ▁du ▁lait ▁dans ▁le ▁réf ri g ér ateur ▁.
 ▁j &apos; ▁ignore ▁son ▁ad resse ▁.
 ▁je ▁ne ▁vous ▁rep ro che ▁pas ▁de ▁le ▁faire ▁.
 ▁j &apos; ▁ai ▁une ▁amie ▁qui ▁vit ▁à ▁K y ot o ▁.
@@ -309,7 +309,7 @@
 ▁je ▁comm ence ▁à ▁être ▁hab itu ée ▁à ▁faire ▁ceci ▁.
 ▁il ▁a ▁écrit ▁un ▁livre ▁sur ▁sa ▁con vers ion ▁à ▁l &apos; ▁Is l am ▁.
 ▁je ▁l &apos; ▁ai ▁trouvé ▁au ▁g ren ier ▁.
-▁j &apos; ▁ignore ▁comment ▁vous ▁cont ac ter ▁.
+▁j &apos; ▁ignore ▁comment ▁vous ▁contact er ▁.
 ▁je ▁l &apos; ▁ai ▁invit ée ▁à ▁aller ▁voir ▁un ▁film ▁.
 ▁Tom ▁exp ose ▁les ▁choses ▁comme ▁elles ▁sont ▁.
 ▁je ▁suis ▁sûr ▁que ▁tu ▁me ▁ra con ter as ▁ce ▁que ▁je ▁veux ▁savoir ▁.
@@ -342,7 +342,7 @@
 ▁demain ▁, ▁je ▁prend rai ▁les ▁livres ▁à ▁la ▁bi blioth èque ▁.
 ▁tu ▁as ▁dû ▁avoir ▁tort ▁.
 ▁Tom ▁chante ▁toujours ▁sous ▁la ▁dou che ▁.
-▁les ▁C an ad iens ▁sont ▁nos ▁amis ▁.
+▁les ▁Can ad iens ▁sont ▁nos ▁amis ▁.
 ▁laissez ▁cette ▁boîte ▁là ▁où ▁elle ▁est ▁.
 ▁il ▁a ▁mal ▁à ▁la ▁tête ▁.
 ▁êtes ▁@-@ ▁vous ▁né ▁là ▁@-@ ▁bas ▁?
@@ -497,7 +497,7 @@
 ▁plus ieurs ▁personnes ▁g is aient ▁bless ées ▁.
 ▁mon ▁père ▁condu it ▁une ▁très ▁vie ille ▁voiture ▁.
 ▁le ▁livre ▁est ▁pour ▁moi ▁ ; ▁les ▁fle urs ▁sont ▁pour ▁nous ▁.
-▁veuillez ▁ne ▁pas ▁oubl ier ▁de ▁tim bre r ▁les ▁let tres ▁que ▁je ▁vous ▁ai ▁donné es ▁à ▁post er ▁.
+▁veuillez ▁ne ▁pas ▁oubl ier ▁de ▁tim bre r ▁les ▁let tres ▁que ▁je ▁vous ▁ai ▁donné es ▁à ▁po ster ▁.
 ▁deux ▁fem mes ▁chant ent ▁.
 ▁on ▁nous ▁a ▁dit ▁de ▁ne ▁pas ▁faire ▁cela ▁.
 ▁il ▁s &apos; ▁av ère ▁que ▁tu ▁savais ▁tout ▁mais ▁rest ais ▁sil enc ieux ▁.
@@ -509,7 +509,7 @@
 ▁c &apos; ▁est ▁vraiment ▁un ▁bon ▁travaille ur ▁.
 ▁j &apos; ▁aimerais ▁me ▁rendre ▁u t ile ▁.
 ▁il ▁est ▁ 8 ▁h ▁30 ▁.
-▁une ▁temp ête ▁les ▁a ▁cont ra in tes ▁à ▁rester ▁à ▁la ▁maison ▁.
+▁une ▁temp ête ▁les ▁a ▁cont ra int es ▁à ▁rester ▁à ▁la ▁maison ▁.
 ▁S ub ite ment ▁, ▁le ▁super v ise ur ▁a ▁perdu ▁son ▁sang ▁@-@ ▁froid ▁.
 ▁c &apos; ▁était ▁une ▁très ▁bonne ▁expérience ▁pour ▁lui ▁.
 ▁j &apos; ▁ai ▁étud ié ▁l &apos; ▁anglais ▁pendant ▁que ▁j &apos; ▁y ▁étais ▁.
@@ -520,7 +520,7 @@
 ▁Re v iens ▁à ▁la ▁maison ▁avant ▁six ▁heures ▁.
 ▁j &apos; ▁au rai ▁peut ▁@-@ ▁être ▁quelques ▁minutes ▁de ▁retard ▁.
 ▁je ▁ne ▁suis ▁pas ▁sur ▁le ▁point ▁de ▁lui ▁demand er ▁.
-▁tout ▁le ▁monde ▁a ▁ad op té ▁une ▁att itude ▁h ost ile ▁en vers ▁les ▁im m ig r és ▁cl and est ins ▁.
+▁tout ▁le ▁monde ▁a ▁ad op té ▁une ▁att itude ▁ho st ile ▁en vers ▁les ▁im m ig r és ▁cl and est ins ▁.
 ▁je ▁n &apos; ▁aime ▁pas ▁voir ▁de ▁la ▁nourriture ▁gas p ill ée ▁.
 ▁é lo igne ▁@-@ ▁toi ▁de ▁moi ▁!
 ▁sois ▁prud ente ▁, ▁je ▁te ▁prie ▁.
@@ -565,7 +565,7 @@
 ▁il ▁vous ▁faut ▁boire ▁quelque ▁chose ▁.
 ▁je ▁n &apos; ▁aime ▁pas ▁le ▁sil ence ▁.
 ▁on ▁m &apos; ▁a ▁pri é ▁d &apos; ▁attendre ▁ici ▁.
-▁je ▁veux ▁écrire ▁un ▁art icle ▁.
+▁je ▁veux ▁écrire ▁un ▁artic le ▁.
 ▁Tom ▁est ▁un ▁joue ur ▁.
 ▁pourquoi ▁es ▁@-@ ▁tu ▁si ▁mor ose ▁?
 ▁un ▁r h ume ▁l &apos; ▁a ▁cl ou é ▁au ▁lit ▁.
@@ -787,7 +787,7 @@
 ▁crois ▁@-@ ▁moi ▁, ▁s &apos; ▁il ▁te ▁plaît ▁.
 ▁veux ▁@-@ ▁tu ▁perdre ▁du ▁po ids ▁?
 ▁merci ▁.
-▁les ▁je un es ▁dev ra ient ▁res pe cter ▁les ▁vieux ▁.
+▁les ▁je un es ▁dev ra ient ▁respect er ▁les ▁vieux ▁.
 ▁je ▁m &apos; ▁aime ▁davantage ▁et ▁je ▁perm ets ▁aux ▁autres ▁de ▁m &apos; ▁aimer ▁.
 ▁je ▁veux ▁savoir ▁pourquoi ▁nous ▁sommes ▁ici ▁.
 ▁presque ▁tout ▁le ▁monde ▁était ▁en ▁retard ▁.
@@ -926,7 +926,7 @@
 ▁pensez ▁@-@ ▁vous ▁cette ▁cor de ▁assez ▁rés ist ante ▁?
 ▁la ▁bless ure ▁lui ▁laiss a ▁une ▁c ic at ri ce ▁sur ▁le ▁br as ▁.
 ▁Tom ▁t &apos; ▁a ▁@-@ ▁t ▁@-@ ▁il ▁dit ▁où ▁se ▁g arer ▁?
-▁Tom ▁est ▁un ▁C an ad ien ▁qui ▁vit ▁en ▁Austra lie ▁.
+▁Tom ▁est ▁un ▁Can ad ien ▁qui ▁vit ▁en ▁Austra lie ▁.
 ▁nous ▁ne ▁p û mes ▁nous ▁emp êcher ▁d &apos; ▁é pr ouver ▁de ▁la ▁comp ass ion ▁à ▁son ▁ég ard ▁.
 ▁beaucoup ▁de ▁gens ▁a iment ▁voy ager ▁.
 ▁je ▁veux ▁que ▁vous ▁sa ch iez ▁que ▁Tom ▁est ▁important ▁pour ▁moi ▁.

@@ -27,9 +27,9 @@
 ▁d 727
 ▁ai 700
 ▁une 689
-é 688
+é 676
 ▁nous 655
-▁c 559
+▁c 556
 ▁elle 520
 ▁qu 517
 ▁pour 456
@@ -38,10 +38,10 @@
 ▁me 406
 ▁dans 396
 ▁et 394
-er 387
+er 391
 ▁des 387
 ▁m 376
-es 366
+es 367
 ▁s 347
 ▁y 337
 ▁au 334
@@ -61,9 +61,9 @@ s 276
 ▁avec 264
 ▁tout 263
 ▁fait 255
-u 241
 ment 241
 ent 240
+u 240
 i 238
 ▁si 236
 ▁sa 236
@@ -71,9 +71,9 @@ i 238
 ▁être 229
 ▁sur 229
 ons 228
-a 227
 ▁sont 226
 ie 226
+a 226
 ▁son 222
 it 220
 ant 220
@@ -84,19 +84,19 @@ ait 211
 ▁veux 200
 ▁ils 199
 &quot; 199
+is 185
 ▁lui 184
 ▁ma 183
 c 182
 és 182
 ▁très 180
-▁p 179
 ▁temps 178
-is 176
+▁p 174
 ▁cette 173
 te 168
 ▁êtes 167
-in 167
 r 167
+in 165
 on 164
 ▁f 160
 re 160
@@ -108,30 +108,29 @@ re 160
 ra 149
 ▁où 147
 ▁es 143
+g 140
 ▁pourquoi 140
 ir 140
 ▁bien 139
 ▁mais 138
 il 137
 t 137
-▁b 137
 ▁peux 136
 ▁ici 136
 e 136
 ▁comment 135
-g 134
+▁é 135
 ▁jamais 134
-▁é 134
 ▁sais 132
 ▁dit 130
 ▁toi 129
+▁b 128
 ▁pense 127
 ▁chose 127
 ue 126
 ou 126
-ais 124
 ▁dire 123
-us 121
+ais 123
 n 121
 ▁v 120
 che 120
@@ -140,10 +139,11 @@ ur 119
 ▁dé 118
 m 118
 ▁cela 118
+us 118
 ▁comme 117
+o 117
 l 117
 at 116
-o 116
 se 115
 ▁peut 114
 ▁avons 113
@@ -153,6 +153,7 @@ se 115
 ▁vraiment 110
 ne 108
 age 108
+le 106
 ▁avait 104
 p 104
 ▁g 103
@@ -167,9 +168,7 @@ me 100
 ▁ta 100
 au 99
 ▁même 99
-le 99
 ▁quelque 99
-an 99
 ▁ses 98
 ▁avoir 96
 ▁rien 96
@@ -180,11 +179,12 @@ an 99
 ut 94
 ▁bon 94
 ▁mes 94
+an 94
 ité 93
 ▁elles 93
-ire 92
 que 92
 ▁besoin 91
+ri 91
 ▁monde 91
 ise 91
 ▁personne 91
@@ -200,8 +200,8 @@ ite 87
 y 87
 ▁vie 87
 qu 86
+ire 86
 ▁là 86
-ri 85
 ▁sommes 85
 ux 84
 or 84
@@ -209,11 +209,11 @@ or 84
 ille 83
 ées 83
 ▁homme 82
+ar 82
 ▁re 82
 ▁peu 81
 if 81
 ▁toujours 81
-ar 81
 al 80
 ▁voiture 80
 ▁quel 79
@@ -233,9 +233,9 @@ d 75
 ez 74
 ance 74
 ▁autre 74
+et 74
 ré 73
 ▁grand 73
-et 73
 ante 73
 ▁eu 73
 ▁soit 72
@@ -247,7 +247,6 @@ en 72
 ▁Mary 71
 ▁fois 71
 ▁part 70
-pe 70
 ce 69
 ▁quoi 69
 ▁notre 69
@@ -261,7 +260,9 @@ as 68
 urs 66
 ▁maintenant 66
 ▁vais 66
+▁po 65
 ge 65
+pe 65
 om 65
 ▁faut 64
 ▁app 64
@@ -269,7 +270,6 @@ om 65
 iez 64
 ▁sans 64
 ▁comp 64
-ter 63
 ▁av 63
 use 63
 ▁père 63
@@ -279,6 +279,7 @@ use 63
 ▁dis 62
 ien 61
 b 61
+ter 60
 ▁pré 60
 ▁seul 60
 de 59
@@ -290,7 +291,6 @@ ch 59
 ▁ét 59
 rai 58
 ▁ren 58
-▁C 58
 our 58
 ▁plaît 58
 ▁sou 57
@@ -305,7 +305,6 @@ mes 56
 ver 56
 ▁ces 56
 oir 55
-▁po 55
 ▁cl 55
 ▁enfants 55
 ▁petit 55
@@ -319,6 +318,7 @@ né 54
 ▁dép 53
 ul 53
 ▁livre 53
+▁C 53
 ▁cou 53
 ▁aimerais 53
 f 52
@@ -330,7 +330,6 @@ f 52
 ière 52
 ▁après 51
 aux 51
-ic 51
 ▁français 51
 ain 51
 ▁déc 51
@@ -348,6 +347,7 @@ ide 50
 os 49
 ▁dev 49
 ▁juste 49
+ic 49
 ▁entre 49
 ▁anglais 49
 ▁demain 49
@@ -465,7 +465,6 @@ lé 37
 ▁demandé 37
 ▁vis 37
 be 37
-ac 37
 ▁ad 37
 ▁heureux 37
 agne 37
@@ -474,7 +473,6 @@ agne 37
 x 37
 ig 37
 ▁fr 36
-▁cont 36
 ▁pro 36
 ▁semaine 36
 iste 36
@@ -486,6 +484,7 @@ ate 35
 ▁retard 35
 ▁faites 35
 ▁cher 35
+era 35
 ▁semble 35
 ▁ph 35
 la 35
@@ -498,9 +497,7 @@ rais 35
 ▁dernière 35
 ▁ent 35
 ▁pu 35
-tes 34
 ds 34
-era 34
 aient 34
 ▁aff 34
 ▁jusqu 34
@@ -512,14 +509,16 @@ ction 34
 con 34
 ▁problème 34
 ▁cha 34
-▁appel 34
 ents 34
 ▁prêt 34
 û 34
 ▁aim 33
+int 33
+tes 33
 ass 33
 ▁connais 33
 rir 33
+ac 33
 ▁o 33
 ▁regard 33
 ▁allé 33
@@ -529,7 +528,6 @@ rir 33
 ches 33
 its 33
 ▁comm 33
-int 32
 ▁P 32
 orter 32
 ▁prom 32
@@ -558,11 +556,11 @@ onne 31
 uses 31
 oute 31
 quer 31
+ct 31
 uf 31
 ▁perdu 31
 ▁mot 31
 ▁passe 31
-iv 31
 ▁sortir 31
 ets 31
 ▁famille 31
@@ -573,7 +571,6 @@ gl 30
 ▁question 30
 ▁nos 30
 ▁acc 30
-ois 30
 ▁plan 30
 rent 30
 ienne 30
@@ -582,7 +579,6 @@ ienne 30
 ▁chance 30
 ▁ten 30
 ▁ami 30
-ts 30
 ▁ville 30
 ition 30
 ▁vol 30
@@ -597,13 +593,12 @@ indre 30
 ▁parents 29
 ▁ab 29
 ▁mauvais 29
+▁cont 29
 ▁aucun 29
 ▁nombre 29
 asse 29
 ven 29
 mp 29
-▁év 29
-ct 29
 ▁cro 29
 ▁to 29
 ▁do 29
@@ -631,10 +626,12 @@ nent 28
 ê 28
 ▁intéress 28
 ▁occup 28
+▁év 28
 igne 28
 ▁croire 28
 ettes 28
 ▁difficile 28
+iv 28
 ▁propos 28
 ▁gr 28
 ▁ri 28
@@ -763,6 +760,7 @@ um 24
 ▁ég 24
 ▁accident 24
 ▁N 24
+ts 24
 ▁demand 24
 ▁compren 24
 qué 24
@@ -828,18 +826,19 @@ par 22
 ▁li 22
 nu 22
 ▁ouv 22
-▁art 22
 ange 22
 ▁savez 22
 ▁travailler 22
 he 22
 ▁soyez 22
 ▁déteste 22
+▁H 22
 ▁habitude 22
 ▁prés 22
 rer 22
 ▁J 22
 ▁noir 22
+▁appel 22
 ▁travers 22
 aine 22
 ▁mange 22
@@ -858,6 +857,7 @@ iel 21
 si 21
 ▁bureau 21
 ▁entendu 21
+ois 21
 uel 21
 ▁sav 21
 ▁tou 21
@@ -888,7 +888,6 @@ ha 21
 ▁compl 21
 ▁jouer 21
 ▁ha 21
-▁res 21
 ▁chemin 20
 ▁rapp 20
 iter 20
@@ -904,10 +903,11 @@ iner 20
 ▁mettre 20
 ▁ver 20
 mb 20
+▁bo 20
 ▁rouge 20
 rit 20
-▁H 20
 ist 20
+cu 20
 ▁contre 20
 ▁act 20
 iers 20
@@ -923,7 +923,6 @@ gé 20
 ▁perm 20
 ▁su 20
 ible 20
-▁adm 20
 ▁pren 20
 ▁lun 20
 oire 20
@@ -951,7 +950,6 @@ resse 19
 les 19
 ▁retour 19
 ▁sac 19
-cu 19
 ▁malade 19
 ▁regarde 19
 ▁amie 19
@@ -1074,6 +1072,7 @@ est 17
 ▁vieux 17
 ▁hum 17
 ▁inter 17
+erais 17
 ▁parlez 17
 ▁quatre 17
 ▁cop 17
@@ -1139,7 +1138,6 @@ ves 16
 ▁fit 16
 lo 16
 ▁appré 16
-erais 16
 cha 16
 ff 16
 ▁cap 16
@@ -1150,7 +1148,6 @@ arer 16
 ▁st 16
 ta 16
 itié 16
-▁exp 16
 ▁pom 16
 ▁professeur 16
 ▁bat 16
@@ -1172,6 +1169,7 @@ k 16
 ▁fenêtre 16
 ore 16
 tez 16
+▁res 16
 ▁cré 16
 ▁laissez 16
 istes 16
@@ -1236,6 +1234,7 @@ lie 15
 ▁table 15
 ▁né 15
 itu 15
+va 15
 oc 15
 ▁erreur 15
 ▁vacances 15
@@ -1255,11 +1254,9 @@ ouver 14
 ▁intention 14
 ▁gent 14
 ▁réunion 14
-S 14
 ouve 14
 ▁Dieu 14
 ▁compris 14
-ress 14
 ▁serv 14
 ase 14
 ▁lis 14
@@ -1306,13 +1303,13 @@ ph 14
 ▁rencon 14
 ▁expérience 14
 ak 14
+▁adm 14
 ▁donner 14
 ▁chemise 14
 ▁voulons 14
 ▁essayé 14
 ▁hommes 14
 ▁aimer 14
-va 14
 ▁ressemble 14
 ç 14
 ▁rencontr 14
@@ -1350,6 +1347,7 @@ ess 13
 ▁chans 13
 ▁souviens 13
 veille 13
+▁art 13
 ▁étranger 13
 ▁vé 13
 ▁allemand 13
@@ -1378,6 +1376,7 @@ bles 13
 ▁perd 13
 ▁côt 13
 ▁restaurant 13
+▁exp 13
 ▁pa 13
 irer 13
 ▁agit 13
@@ -1396,7 +1395,6 @@ lez 13
 ▁: 13
 âmes 13
 ▁perdre 13
-act 13
 ▁pleuv 13
 naire 13
 ▁Améri 13
@@ -1472,6 +1470,8 @@ dez 12
 ▁garde 12
 ud 12
 amment 12
+▁appelé 12
+▁respect 12
 ▁malad 12
 ▁pon 12
 ▁trans 12
@@ -1498,11 +1498,10 @@ ule 11
 ▁scient 11
 nais 11
 ▁pou 11
-▁U 11
+ress 11
 ▁V 11
 à 11
 ▁mit 11
-▁bo 11
 ▁tre 11
 ▁sign 11
 rass 11
@@ -1518,7 +1517,6 @@ uv 11
 ros 11
 ▁co 11
 ▁sec 11
-oin 11
 ▁gau 11
 av 11
 bl 11
@@ -1535,7 +1533,6 @@ igner 11
 ▁off 11
 ust 11
 vis 11
-▁post 11
 isc 11
 ▁tim 11
 ▁entr 11
@@ -1618,6 +1615,7 @@ ball 10
 ▁dest 9
 ▁Pr 9
 ers 9
+▁artic 9
 ▁19 9
 ▁amb 9
 ▁veu 9
@@ -1663,6 +1661,7 @@ pter 9
 ▁oblig 9
 ▁atte 9
 ▁math 9
+act 9
 ▁sil 9
 ▁rec 9
 ▁dipl 9
@@ -1715,7 +1714,6 @@ vre 8
 ▁5 8
 ances 8
 Q 8
-fe 8
 ▁erre 8
 icon 8
 ▁bill 8
@@ -1737,12 +1735,12 @@ avant 8
 ast 8
 ▁Austra 8
 érie 8
+S 8
 ▁cas 8
 âte 8
 ▁vou 8
 ▁regret 8
 ission 8
-cter 8
 ▁men 8
 ▁not 8
 ense 8
@@ -1773,7 +1771,6 @@ tails 7
 ination 7
 rage 7
 ▁De 7
-icle 7
 ▁suic 7
 ▁cer 7
 ▁taxi 7
@@ -1794,6 +1791,7 @@ ges 7
 cie 7
 ▁che 7
 mbre 7
+fe 7
 ▁absol 7
 ▁camp 7
 lev 7
@@ -1809,13 +1807,11 @@ lex 7
 ▁second 7
 qui 7
 iche 7
-▁vir 7
 ▁fro 7
 ▁u 7
 ▁30 7
 ctions 7
 ▁Ah 7
-▁respect 7
 ▁fenêt 7
 ▁Internet 7
 uc 7
@@ -1835,6 +1831,7 @@ ib 7
 ara 7
 ▁mill 7
 ▁cult 7
+▁contact 7
 ▁exist 7
 ▁O 7
 one 7
@@ -1854,6 +1851,7 @@ ray 7
 ▁arrog 6
 ▁New 6
 ▁Y 6
+▁US 6
 A 6
 ▁Fr 6
 ▁écri 6
@@ -1880,6 +1878,7 @@ co 6
 ▁front 6
 ▁alc 6
 ool 6
+oin 6
 ▁laiss 6
 happ 6
 ▁bicy 6
@@ -1887,7 +1886,6 @@ happ 6
 cent 6
 ▁rid 6
 ▁sub 6
-rig 6
 ▁stat 6
 yer 6
 ind 6
@@ -1901,11 +1899,13 @@ ote 6
 pl 6
 lect 6
 ▁col 6
+▁admire 6
 ▁agent 6
 ▁1 6
 ▁trava 6
 ▁he 6
 ▁pers 6
+▁post 6
 ▁bri 6
 ▁surv 6
 ister 6
@@ -1921,6 +1921,7 @@ az 6
 min 6
 ▁pardon 6
 ▁Al 6
+ints 6
 ▁vérit 6
 cient 6
 ffe 6
@@ -1975,6 +1976,7 @@ onna 5
 ▁tor 5
 ▁ap 5
 ▁cous 5
+ster 5
 ▁innocent 5
 ague 5
 ▁add 5
@@ -1984,6 +1986,7 @@ ata 5
 ▁crime 5
 ▁fac 5
 ▁acqu 5
+▁U 5
 oses 5
 ▁pet 5
 ▁Europe 5
@@ -1996,6 +1999,7 @@ orce 5
 umer 5
 erv 5
 ▁colle 5
+▁Can 5
 ▁tal 5
 ards 5
 ▁fatig 5
@@ -2041,6 +2045,7 @@ dition 4
 ▁hyp 4
 son 4
 près 4
+fect 4
 hen 4
 ▁prov 4
 ▁prem 4
@@ -2123,6 +2128,7 @@ ince 4
 ▁log 4
 ls 4
 ▁sing 4
+▁vir 4
 ▁just 4
 ▁har 3
 ât 3
@@ -2139,8 +2145,8 @@ ancy 3
 oth 3
 ▁Jack 3
 illage 3
+▁civ 3
 ▁pull 3
-fect 3
 tel 3
 uri 3
 ▁sit 3
@@ -2159,6 +2165,7 @@ ries 3
 ▁her 3
 ▁gentleman 3
 ▁pau 3
+▁virus 3
 ▁Sus 3
 rog 3
 ▁gra 3
@@ -2214,6 +2221,7 @@ cept 3
 bor 3
 ▁match 3
 uff 3
+▁express 3
 ▁mach 3
 iko 3
 ame 3
@@ -2266,7 +2274,6 @@ arch 2
 itive 2
 ▁hall 2
 cin 2
-▁Har 2
 ▁club 2
 ys 2
 ck 2
@@ -2290,7 +2297,6 @@ amp 2
 tain 2
 ▁May 2
 ▁Is 2
-ry 2
 ▁cle 2
 ▁million 2
 aby 2
@@ -2308,6 +2314,7 @@ amed 2
 ▁êt 2
 ▁normal 2
 ▁iss 2
+ison 2
 gy 2
 ome 2
 ▁conne 2
@@ -2374,7 +2381,7 @@ cur 1
 owe 1
 ▁up 1
 ▁den 1
-▁market 1
+▁mark 1
 sel 1
 ash 1
 ▁of 1
@@ -2422,6 +2429,7 @@ aret 1
 ▁hu 1
 ▁Sam 1
 ▁cur 1
+ry 1
 fast 1
 reat 1
 ▁trip 1
@@ -2433,7 +2441,6 @@ gan 1
 airs 1
 ▁calm 1
 ilt 1
-oison 1
 nal 1
 ▁his 1
 ▁lab 1
@@ -2493,6 +2500,7 @@ jor 1
 ▁along 1
 ▁watch 1
 ower 1
+arry 1
 Ã 1
 © 1
 AM 1
@@ -2529,7 +2537,6 @@ ories 1
 ith 1
 ▁bra 1
 ▁ain 1
-ison 1
 oe 1
 arl 1
 old 1
