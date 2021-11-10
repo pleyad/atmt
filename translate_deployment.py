@@ -6,6 +6,7 @@ from tqdm import tqdm
 
 import torch
 from torch.serialization import default_restore_location
+from tqdm.utils import _environ_cols_wrapper
 
 from seq2seq import models, utils
 from seq2seq.data.dictionary import Dictionary
@@ -117,9 +118,12 @@ def main(args):
     # Write to file
     if args.output is not None:
         with open(args.output, 'w') as out_file:
-            # for sent_id in range(len(all_hyps.keys())):
-            for sent_id in all_hyps.keys():
-                out_file.write(all_hyps[sent_id] + '\n')
+            if args.mini:
+                for sent_id in all_hyps.keys():
+                    out_file.write(all_hyps[sent_id] + '\n')    
+            else:
+                for sent_id in range(len(all_hyps.keys())):
+                    out_file.write(all_hyps[sent_id] + '\n')
 
 if __name__ == '__main__':
     args = get_args()
