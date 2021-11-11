@@ -73,7 +73,14 @@ def main(args):
                 break
         with torch.no_grad():
             # Compute the encoder output
-            encoder_out = model.encoder(sample['src_tokens'], sample['src_lengths'])
+            try:
+                encoder_out = model.encoder(sample['src_tokens'], sample['src_lengths'])
+
+            except:
+                print(i)
+                print(sample["src_tokens"])
+                print(sample["src_lengths"])
+                return
             go_slice = \
                 torch.ones(sample['src_tokens'].shape[0], 1).fill_(tgt_dict.eos_idx).type_as(sample['src_tokens'])
             if args.cuda:
