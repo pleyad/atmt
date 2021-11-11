@@ -69,7 +69,7 @@ def main(args):
     all_hyps = {}
     for i, sample in enumerate(progress_bar):
         if args.mini:
-            if i > 100:
+            if i > 10:
                 break
         with torch.no_grad():
             # Compute the encoder output
