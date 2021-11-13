@@ -80,6 +80,21 @@ Hyperparameters:
  "version": "2.0.0"
 }
 
+#### Backtranslation with Sentencepiece, final Model with Sentencepiece
+
+{
+ "name": "BLEU",
+ "score": 20.2,
+ "signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0",
+ "verbose_score": "49.1/25.1/15.0/9.0 (BP = 1.000 ratio = 1.156 hyp_len = 4499 ref_len = 3892)",
+ "nrefs": "1",
+ "case": "mixed",
+ "eff": "no",
+ "tok": "13a",
+ "smooth": "exp",
+ "version": "2.0.0"
+}
+
 We noticed that the test set does not contain any unknown words, and therefore there is less reason to apply a subword encoding. This may be an explanation why the sentencepiece tokenization model did not perform better than the baseline.
 
 - Tables
