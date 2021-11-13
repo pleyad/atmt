@@ -7,7 +7,7 @@ pwd=`dirname "$(readlink -f "$0")"`
 base=$pwd/../..
 src=fr
 tgt=en
-data=$base/data/$tgt-$src/
+data=$base/data/$tgt-$src-extra/
 
 # change into base directory to ensure paths are valid
 cd $base
