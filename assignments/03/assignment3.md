@@ -1,14 +1,23 @@
-# Assignment 3
-*Niclas Bodenmann (nibode), Andreas Säuberli (asaeub)*
+---
+title: Assignment 3
+author:
+    - Andreas Säuberli (asaeub)
+    - Niclas Bodenmann (nibode)
+date: 16. Nov 2021
+...
 
-## Requirements
+# Repository
+
+[https://github.com/pleyad/atmt](https://github.com/pleyad/atmt)
+
+# Requirements
 
 - Test set translation (both models)
 - Any code changes
 - Pre-/Postprocessing scripts
 - PDF Report (2-3 pages with figures)
 
-## A detailed description of your experiment setup
+# A detailed description of your experiment setup
 
 - Why did you choose these two strategies?
 - What data did you use?
@@ -18,6 +27,17 @@
 - What training commands did you use?
 - How did you evaluate your models?
 - ...
+
+# Introduction
+
+We decided on experimenting with bytepair tokenization and with data augmentation via backtranslation. Because the two variables are independent of one another, we ended up with four models that were evaluated against each other:
+
+|                     | No Backtranslation | Backtranslation |
+|---------------------|--------------------|-----------------|
+| Normal Tokenization | baseline |BT_baseline |
+| Bytepair Tokenization | bytepair | BT_bytepair |
+
+For the models without backtranslation, we used the data provided in the repository.
 
 ### Model 1: Sentencepiece
 
