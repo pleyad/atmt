@@ -3,31 +3,9 @@ title: Assignment 3
 author:
     - Andreas Säuberli (asaeub)
     - Niclas Bodenmann (nibode)
-date: 16. Nov 2021
+date: 16 Nov 2021
 documentclass: scrartcl
-...
-
-# Repository
-
-[https://github.com/pleyad/atmt](https://github.com/pleyad/atmt)
-
-<!-- # Requirements
-
-- Test set translation (both models)
-- Any code changes
-- Pre-/Postprocessing scripts
-- PDF Report (2-3 pages with figures)
-
-# A detailed description of your experiment setup
-
-- Why did you choose these two strategies?
-- What data did you use?
-- How did you preprocess the data?
-- What changes did you make in the code?
-- Which hyper-parameters did you use for training your nodels?
-- What training commands did you use?
-- How did you evaluate your models?
-- ... -->
+---
 
 # Introduction
 
@@ -79,6 +57,11 @@ Whenever no specific pre-/postprocessing script is present in the folder, the ba
 # Results
 
 We translated and postprocessed the test set with each model and used *sacrebleu* for evaluation.
+
+![n-gram precisions of all models](img/n-gram-precision.png){width=8cm}
+
+![Performance across different sentence lengths](img/len-bleu.png){width=8cm}
+![Performance across different ratios of rare words](img/rare-bleu.png){width=8cm}
 
 # Discussion
 
