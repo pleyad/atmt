@@ -9,7 +9,7 @@ documentclass: scrartcl
 
 # Introduction
 
-We decided on experimenting with byte-pair encoding and with data augmentation via backtranslation. Because the two variables are independent from one another, we ended up with four models that were evaluated against each other:
+We decided on experimenting with byte-pair encoding (Sennrich et al. 2015a) and with data augmentation via backtranslation (Sennrich et al. 2015b). Because the two variables are independent from one another, we ended up with four models that were evaluated against each other:
 
 |                     | No Backtranslation | Backtranslation |
 |---------------------|--------------------|-----------------|
@@ -71,3 +71,8 @@ We noticed that the test set does not contain any unknown words, and therefore t
 
 - What we learned
 - What we would do differently next time
+
+# References
+
+- Sennrich, R., Haddow, B., & Birch, A. (2015a). Neural machine translation of rare words with subword units. arXiv preprint arXiv:1508.07909.
+- Sennrich, R., Haddow, B., & Birch, A. (2015b). Improving neural machine translation models with monolingual data. arXiv preprint arXiv:1511.06709.
