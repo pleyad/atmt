@@ -42,7 +42,7 @@ We trained the forward-translation model without BPE and using the same hyperpar
 
 ## Model `BT_bytepair`
 
-This model used the same mixed authentic-synthetic training corpus as in `BT_baseline`, but applied BPE (with the same configuration as in the `bytepair` model) before training the final forward-translation model (with the sme hyperparameters as in all other models).
+This model used the same mixed authentic-synthetic training corpus as in `BT_baseline`, but applied BPE (with the same configuration as in the `bytepair` model, training on the entire training data) before training the final forward-translation model (with the same hyperparameters as in all other models).
 
 ## Links to scripts, model checkpoints, and translations
 
