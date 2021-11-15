@@ -58,6 +58,13 @@ Whenever no specific pre-/postprocessing script is present in the folder, the ba
 
 We translated and postprocessed the test set with each model and used *sacrebleu* for evaluation.
 
+|               | BLEU |
+|---------------|------|
+| `baseline`    | 16.8 |
+| `bytepair`    | 15.1 |
+| `BT_baseline` | 18.7 |
+| `BT_bytepair` | 20.2 |
+
 ![n-gram precisions of all models](img/n-gram-precision.png){width=8cm}
 
 ![Performance across different sentence lengths](img/len-bleu.png){width=8cm}
@@ -65,7 +72,9 @@ We translated and postprocessed the test set with each model and used *sacrebleu
 
 # Discussion
 
-We noticed that the test set does not contain any unknown words, and therefore there is less reason to apply a subword encoding. This may be an explanation why the `bytepair` model did not perform better than the `baseline`. In the case of the `BT` models, where a larger variety of words is introduced due to the additional data, subword encoding does improve performance.
+It is interesting to note how the introduction of subword encoding hurts the baseline model, but actually improves the same model architecture when it is reinforced with additional data through backtranslation. We noticed that the test set does not contain any unknown words, and therefore there is less reason to apply a subword encoding. This may be an explanation why the `bytepair` model did not perform better than the `baseline`. In the case of the `BT` models however, where a larger variety of words is introduced due to the additional data, subword encoding does improve performance. We trace this in part to a better fitting subword model, as it is trained on the augmented data as well.
+
+We checked whether the models had significant differences in their n-gram precisions as reported by `sacrebleu` (Fig. 1), how they performed on source sentences of different lengths (Fig. 2) and how they performed on source sentences with different ratios of rare tokens (less than 0.1% relative frequency) to common tokens (Fig. 3). The graphs don't really give a hint for the better performance of `BT` models -- the models simply behave better across the whole spectrum of the analyzed variables. 
 
 # Reflection
 
