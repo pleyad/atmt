@@ -7,6 +7,8 @@ date: 16 Nov 2021
 documentclass: scrartcl
 ---
 
+\vspace{-1.5cm}
+
 # Introduction
 
 We decided on experimenting with byte-pair encoding (Sennrich et al. 2015a) and with data augmentation via backtranslation (Sennrich et al. 2015b). Because the two variables are independent from one another, we ended up with four models that were evaluated against each other:
@@ -42,7 +44,7 @@ We trained the forward-translation model without BPE and using the same hyperpar
 
 ## Model `BT_bytepair`
 
-This model used the same mixed authentic-synthetic training corpus as in `BT_baseline`, but applied BPE (with the same configuration as in the `bytepair` model) before training the final forward-translation model (with the sme hyperparameters as in all other models).
+This model used the same mixed authentic-synthetic training corpus as in `BT_baseline`, but applied BPE (with the same configuration as in the `bytepair` model, trained on the entire training corpus) before training the final forward-translation model (with the same hyperparameters as in all other models).
 
 ## Links to scripts, model checkpoints, and translations
 
@@ -78,8 +80,9 @@ We checked whether the models had significant differences in their n-gram precis
 
 # Reflection
 
-- What we learned
-- What we would do differently next time
+We learned that backtranslation seems to be a very simple yet reliable way to increase translation performance in low-resource scenarios. We were happy to see that our choices of data and preprocessing worked well with this method. We also learned (the hard way) that it is very difficult (but important) to keep the scripts, data, and model files neatly organized to avoid errors and confusion.
+
+Since we did not experiment with or optimize hyperparameters, it is possible that there are still more performance boosts lurking inside the models. In another experiment, we would try to experiment with the vocabulary size in particular, since this seemed to be somewhat of a bottleneck especially for the models without BPE.
 
 # References
 
