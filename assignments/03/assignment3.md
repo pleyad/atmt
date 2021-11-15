@@ -69,8 +69,9 @@ We noticed that the test set does not contain any unknown words, and therefore t
 
 # Reflection
 
-- What we learned
-- What we would do differently next time
+We learned that backtranslation seems to be a very simple yet reliable way to increase translation performance in low-resource scenarios. We were happy to see that our choices of data and preprocessing worked well with this method. We also learned (the hard way) that it is very difficult (but important) to keep the scripts, data, and model files neatly organized to avoid errors and confusion.
+
+Since we did not experiment with or optimize hyperparameters, it is possible that there are still more performance boosts lurking inside the models. In another experiment, we would try to experiment with the vocabulary size in particular, since this seemed to be somewhat of a bottleneck especially for the models without BPE.
 
 # References
 
