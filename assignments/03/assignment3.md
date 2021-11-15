@@ -26,13 +26,7 @@ This is the model which was already trained in the original repository.
 
 ## Model `bytepair`
 
-The first model uses byte-pair encoding to tokenize the parallel data (joint source and target). We hoped to capture additional morphological information, which would help with unknown words and therefore improve the baseline model.
-
-Hyperparameters:
-- 4000 vocabulary items for BPE (same as in the MT model)
-- BPE trained jointly using source and target data
-
-The hyperparameters of the MT model were the same as in the `baseline` model.
+The first model uses byte-pair encoding to tokenize the parallel data, jointly trained on source and target and with vocab size 4000 (same as the vocabulary size of the MT model). We hoped to capture additional morphological information, which would help with unknown words and therefore improve the baseline model. The hyperparameters of the MT model were the same as in the `baseline` model.
 
 ## Model `BT_baseline`
 
@@ -71,6 +65,10 @@ We translated and postprocessed the test set with each model and used *sacrebleu
 
 ![Performance across different sentence lengths](img/len-bleu.png){width=8cm}
 ![Performance across different ratios of rare words](img/rare-bleu.png){width=8cm}
+
+\begin{tabular}{p{8cm}p{8cm}}
+\centering Figure 2: Performance across different sentence lengths & \centering Figure 3: Performance across different ratios of rare words \\
+\end{tabular}
 
 # Discussion
 
