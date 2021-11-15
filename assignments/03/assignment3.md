@@ -7,6 +7,8 @@ date: 16 Nov 2021
 documentclass: scrartcl
 ---
 
+\vspace{-1.5cm}
+
 # Introduction
 
 We decided on experimenting with byte-pair encoding (Sennrich et al. 2015a) and with data augmentation via backtranslation (Sennrich et al. 2015b). Because the two variables are independent from one another, we ended up with four models that were evaluated against each other:
