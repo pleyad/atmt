@@ -3,7 +3,7 @@
 mkdir -p translations/
 
 alpha=0
-for beam in 1 2 3 4 5 6 7 8; do
+for beam in {1..16}; do
     python ../../translate_beam.py \
         --checkpoint-path bt_bytepair/checkpoints/checkpoint_best.pt \
         --data bt_bytepair/data/prepared \
