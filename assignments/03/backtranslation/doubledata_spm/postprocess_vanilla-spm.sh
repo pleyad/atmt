@@ -1,3 +1,5 @@
+#!/usr/bin/sh
+
 infile=$1
 outfile=$2
 lang=$3
