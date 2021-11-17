@@ -12,9 +12,12 @@ for beam in {1..16}; do
         --alpha $alpha \
         --batch-size 20 \
         --output "translations/beam$beam.alpha$alpha.en"
+
     bt_bytepair/postprocess_vanilla-spm.sh \
         "translations/beam$beam.alpha$alpha.en" \
         "translations/beam$beam.alpha$alpha.post.en" \
         "en" \
         "bt_bytepair/sp_models/sp.model"
+
+    rm "translations/beam$beam.alpha$alpha.en"
 done
