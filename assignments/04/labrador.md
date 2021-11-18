@@ -16,8 +16,10 @@
 
 4. **How are "add" and "add_final" different? What would happen if we did not make this distinction?** `add_final()` adds the EOS node not to the `nodes`-queue, but to the `final`-queue (and pads them to maximum length). If they would be simply added to the `nodes`-queue (using `add()`), the model might still be trying to continue on them. Additionally, they might get pruned, but we want to keep the finished sentences. 
  
-5. What happens internally when we prune our beams? How do we know we always maintain the best sequences?
-6. What is the purpose of this for loop?
+5. **What happens internally when we prune our beams? How do we know we always maintain the best sequences?** When we prune, we retrieve the k best beam ends (nodes) with the highest likelihood (except for finished sentences). Finished sentences are stored, and all other nodes are discarded. This is facilated by using the `PriorityQueue` class, that uses the log-likelihood of the nodes as the priority metric.
+
+6. **What is the purpose of this for loop?** 
+This for loop strips away the padding, or more exact, strips away everything from the first eos-symbol on, which in most cases should only be padding.
 
 # Adding Length Normalization
 
