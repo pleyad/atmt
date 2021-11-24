@@ -15,7 +15,7 @@ from seq2seq.beam import BeamSearch, BeamSearchNode
 
 def get_args():
     """ Defines generation-specific hyper-parameters. """
-    parser = argparse.ArgumentParser('Sequence to Sequence Model')
+    parser = argparse.ArgumentParser()
     parser.add_argument('--cuda', default=False, help='Use a GPU')
     parser.add_argument('--seed', default=42, type=int, help='pseudo random number generator seed')
 
@@ -24,6 +24,8 @@ def get_args():
     parser.add_argument('--dicts', required=True, help='path to directory containing source and target dictionaries')
     parser.add_argument('--checkpoint-path', default='checkpoints_asg4/checkpoint_best.pt', help='path to the model file')
     parser.add_argument('--batch-size', default=None, type=int, help='maximum number of sentences in a batch')
+    n_best_arg = parser.add_argument('--n-best', default=1, type=int, help='number of best hypotheses to output')
+    parser.add_argument('--diverse-penalty', default=0, type=float, help='penalty factor for diverse beam search (gamma)')
     parser.add_argument('--output', default='model_translations.txt', type=str,
                         help='path to the output file destination')
     parser.add_argument('--max-len', default=100, type=int, help='maximum length of generated sequence')
@@ -33,7 +35,12 @@ def get_args():
     # alpha hyperparameter for length normalization (described as lp in https://arxiv.org/pdf/1609.08144.pdf equation 14)
     parser.add_argument('--alpha', default=0.0, type=float, help='alpha for softer length normalization')
 
-    return parser.parse_args()
+    args = parser.parse_args()
+
+    if args.n_best > args.beam_size:
+        raise argparse.ArgumentError(n_best_arg, f"n-best size ({args.n_best}) must be <= beam size ({args.beam_size})")
+
+    return args
 
 
 def main(args):
@@ -95,11 +102,15 @@ def main(args):
             # __QUESTION 2: Why do we keep one top candidate more than the beam size?
             log_probs, next_candidates = torch.topk(torch.log(torch.softmax(decoder_out, dim=2)),
                                                     args.beam_size+1, dim=-1)
+            # Apply diverse penalty
+            # TODO: Is this necessary for the first token?
+            log_probs -= (torch.arange(0, args.beam_size+1) * args.diverse_penalty)[None, None, :]
 
         # Create number of beam_size beam search nodes for every input sentence
         for i in range(batch_size):
             for j in range(args.beam_size):
                 best_candidate = next_candidates[i, :, j]
+                # TODO: Use next_candidates[i, :, beam_size] as backoff?
                 backoff_candidate = next_candidates[i, :, j+1]
                 best_log_p = log_probs[i, :, j]
                 backoff_log_p = log_probs[i, :, j+1]
@@ -149,6 +160,8 @@ def main(args):
 
             # see __QUESTION 2
             log_probs, next_candidates = torch.topk(torch.log(torch.softmax(decoder_out, dim=2)), args.beam_size+1, dim=-1)
+            # Apply diverse penalty
+            log_probs -= (torch.arange(0, args.beam_size+1) * args.diverse_penalty)[None, None, :]
 
             # Create number of beam_size next nodes for every current node
             for i in range(log_probs.shape[0]):
@@ -195,7 +208,9 @@ def main(args):
                 search.prune()
 
         # Segment into sentences
-        best_sents = torch.stack([search.get_best()[1].sequence[1:].cpu() for search in searches])
+        best_sents = torch.stack([
+            node[1].sequence[1:].cpu() for search in searches for node in search.get_best(args.n_best)
+        ])
         decoded_batch = best_sents.numpy()
         #import pdb;pdb.set_trace()
 
@@ -215,14 +230,15 @@ def main(args):
         output_sentences = [tgt_dict.string(sent) for sent in output_sentences]
 
         for ii, sent in enumerate(output_sentences):
-            all_hyps[int(sample['id'].data[ii])] = sent
+            all_hyps[int(sample['id'].data[ii // args.n_best]), ii % args.n_best] = sent
 
 
     # Write to file
     if args.output is not None:
         with open(args.output, 'w') as out_file:
-            for sent_id in range(len(all_hyps.keys())):
-                out_file.write(all_hyps[sent_id] + '\n')
+            for sent_id in range(len(all_hyps.keys()) // args.n_best):
+                for rank in range(args.n_best):
+                    out_file.write(all_hyps[(sent_id, rank)] + '\n')
 
 
 if __name__ == '__main__':
