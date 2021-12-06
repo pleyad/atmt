@@ -1,3 +1,8 @@
+---
+documentclass: scrartcl
+header-includes: \usepackage{libertine}
+---
+
 # Experimenting with Beam Search
 
 <!-- Visualize Bleu-Scores in an appropriate plot --->
@@ -23,6 +28,7 @@ This for loop strips away the padding, or more exact, strips away everything fro
 
 # Adding Length Normalization
 
+alpha 0.9 beam 4
 <!-- Find the optimal α value for the best beam size k from exercise 1 -->
 <!-- Redo exercise 1, but this time with the new α. Does the best beam size k change? --->
 <!-- - Visualizing BLEU-scores in an appropriate plot --->
@@ -40,4 +46,67 @@ This for loop strips away the padding, or more exact, strips away everything fro
 <!-- - Show examples --->
 <!-- - Briefly explain diverse beam search implementation (could be done first) --->
 
+Our implementation modifies the log probabilities output by the decoder at each timestep by subtracting a [penalty vector](https://github.com/pleyad/atmt/blob/1448cc9820cc241b5829a61e547ade49b862ee59/translate_beam.py#L164) according to the procedure described by Li and Jurafsky (2016).
 
+From our observations, diverse beam search seems to encourage diverging branches earlier, i.e. the first differences between n-best translations appear earlier in the sentence (γ = 0 means disabling diverse beam search):
+
+| | |
+| --- | --- |
+| Source | L'armée de Napoléon a marché jusqu'à Moscou. |
+| Reference | Napoleon's army has advanced to Moscow. |
+| | |
+| γ = 0 | The church of Navala has been in Mr. Kosh. |
+|       | The church of Navala has been in Mr. Moscy |
+|       | The church of Navala has been in Mr. Mosh. |
+|       | The church of Navala has been in Mr. Dosca |
+| | |
+| γ = 1 | The stage of Navala has been until Moscy. |
+|       | The stage of Navala has been until Moshy. |
+|       | The stage of Naval Mosca has been until Moscy. |
+|       | The stage of Naval Mosca has been until Moshy. |
+
+Indeed, in the following example, increasing γ seems to incentivize the algorithm to perform more and earlier splits during beam search, and to produce more diverse translations for out-of-vocabulary words.
+
+| | |
+| --- | --- |
+| Source | Tom a dévissé l'ampoule. |
+| Reference | Tom unscrewed the light bulb. |
+| | |
+| γ = 0 | Tom deeped him. |
+| | Tom deeped the wood. |
+| | Tom deeped the woods. |
+| | Tom deeped him to have the wood. |
+| | |
+| γ = 1 | Tom deeped him. |
+| | Tom has made the bank. |
+| | Tom deeped the wood. |
+| | Tom deeped the wound. |
+| | |
+| γ = 2 | Tom deeped him. |
+| | Tom has made the bank. |
+| | Tom deeped the wood. |
+| | Tom has made the woods. |
+
+However, most of the time, different values of γ do not seem to make a large difference in the output, sometimes only reordering the hypotheses:
+
+| | |
+| --- | --- |
+| Source | Tom a promis de ne plus jamais refaire ça. |
+| Reference | Tom promised never to do that again. |
+| | |
+| γ = 0 | Tom promised to never do that. |
+| Tom promised to never do that anymore. |
+| Tom promised to never do that again. |
+| Tom promised to never do that again that's not to do that. |
+| | |
+| γ = 1 | Tom promised to never do that anymore. |
+| Tom promised to never do that again. |
+| Tom promised to never do that. |
+| Tom promised to never do that again that's not to do that. |
+| | |
+| γ = 2 | Tom promised to never do that anymore. |
+| Tom promised to never do that again. |
+| Tom promised to never do that again that. |
+| Tom promised to never do that again that's not to do that. |
+
+Our hypothesis is that diverse beam search mainly has an effect on hypothesis selection when the scores of the different hypotheses are very close to each other (for example in the case of out-of-vocabulary words, where the model has trouble deciding on a single best translation). We also expected the effect to be stronger in all cases when we set the parameter γ to very large values (e.g. 1000), but this does not seem to be the case. The effect does not seem to become more extreme at some point. We are unsure about how to interpret these observations.
