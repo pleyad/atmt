@@ -1,7 +1,14 @@
 ---
+title: Assignment 4
+author:
+    - Andreas Säuberli (asaeub)
+    - Niclas Bodenmann (nibode)
+date: 7 Dec 2021
 documentclass: scrartcl
 header-includes: \usepackage{libertine}
 ---
+
+Link to GitHub repo: [https://github.com/pleyad/atmt](https://github.com/pleyad/atmt) (relevant files are [`translate_beam.py`](https://github.com/pleyad/atmt/blob/master/translate_beam.py) and [`assignments/04/**/*`](https://github.com/pleyad/atmt/tree/master/assignments/04))
 
 # Experimenting with Beam Search
 
@@ -38,7 +45,7 @@ This for loop strips away the padding, or more precisely, strips away everything
 
 # Adding Length Normalization
 
-We searched the space with $\alpha = [0, 1], k = [1, 16]$ for the optimal combination of length normalization and beam size. The following heatmap shows the BLEU score for the tested hyperparameter space:
+We searched the space with $\alpha = [0, 1], k = [1, 16]$ for the optimal combination of length normalization and beam size. The following heatmap shows the BLEU score for the tested hyperparameter space.
 
 ![Heatmap of BLEU scores for different configurations of beam size and alpha](img/heatmap.png){width=8cm}
 
@@ -81,7 +88,9 @@ From our observations, diverse beam search seems to encourage diverging branches
 |       | The stage of Naval Mosca has been until Moscy. |
 |       | The stage of Naval Mosca has been until Moshy. |
 
-Indeed, in the following example, increasing $\gamma$ seems to incentivize the algorithm to perform more and earlier splits during beam search, and to produce more diverse translations for out-of-vocabulary words.
+Indeed, in the following example, increasing $\gamma$ seems to incentivize the algorithm to perform more and earlier splits during beam search, and to produce more diverse translations for out-of-vocabulary words (such as *l'ampoule*).
+
+\pagebreak
 
 | | |
 | --- | --- |
@@ -103,7 +112,7 @@ Indeed, in the following example, increasing $\gamma$ seems to incentivize the a
 | | Tom deeped the wood. |
 | | Tom has made the woods. |
 
-However, most of the time, different values of \gamma do not seem to make a large difference in the output, sometimes only reordering the hypotheses:
+However, most of the time, different values of $\gamma$ do not seem to make a large difference in the output, sometimes only reordering the hypotheses:
 
 | | |
 | --- | --- |
@@ -125,4 +134,4 @@ However, most of the time, different values of \gamma do not seem to make a larg
 | | Tom promised to never do that again that. |
 | | Tom promised to never do that again that's not to do that. |
 
-Our hypothesis is that diverse beam search mainly has an effect on hypothesis selection when the scores of the different hypotheses are very close to each other (for example in the case of out-of-vocabulary words, where the model has trouble deciding on a single best translation). We also expected the effect to be stronger in all cases when we set the parameter \gamma to very large values (e.g. 1000), but this does not seem to be the case. The effect does not seem to become more extreme at some point. We are unsure about how to interpret these observations.
+Our hypothesis is that diverse beam search mainly has an effect on hypothesis selection when the scores of the different hypotheses are very close to each other (for example in the case of out-of-vocabulary words, where the model has trouble deciding on a single best translation). We also expected the effect to be stronger in all cases when we set the parameter $\gamma$ to very large values (e.g. 1000), but this does not seem to be the case. The effect does not seem to become more extreme at some point. We are unsure about how to interpret these observations.
