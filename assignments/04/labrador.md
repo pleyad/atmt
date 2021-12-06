@@ -47,9 +47,9 @@ This for loop strips away the padding, or more precisely, strips away everything
 
 We searched the space with $\alpha = [0, 1], k = [1, 16]$ for the optimal combination of length normalization and beam size. The following heatmap shows the BLEU score for the tested hyperparameter space.
 
-![Heatmap of BLEU scores for different configurations of beam size and alpha](img/heatmap.png){width=8cm}
+![Heatmap of BLEU scores for different configurations of beam size and alpha](img/heatmap.png){width=10cm}
 
-The optimal configuration turns out to be $\alpha = 0.9, k = 4$. As the heatmap shows, BLEU is much more sensitive to beam size than to length normalization.
+The optimal configuration turns out to be $\alpha = 0.9, k = 4$, with a BLEU score of 24.17. As the heatmap shows, BLEU is much more sensitive to beam size than to length normalization.
 
 <!-- Find the optimal α value for the best beam size k from exercise 1 -->
 <!-- Redo exercise 1, but this time with the new α. Does the best beam size k change? --->
