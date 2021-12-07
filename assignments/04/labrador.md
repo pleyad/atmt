@@ -24,7 +24,7 @@ We translated the test data with beam size $k$ ranging from 1 to 16. In Figure 1
 
 Because the BLEU score is directly tied to the brevity penalty (n-gram precision * brevity penalty), we would expect them to be correlate quite strongly.
 However, we see that for the first few beam sizes BLEU starts increasing, even though at $k=4$ the brevity penalty already starts penalizing.
-Up until $k=4$, the trade-off between sentence shortness and n-gram precision seems to work in favour of the final score, where afterwards the brevity penalty simple punishes too much for BLEU to be in a competitive range. 
+Up until $k=4$, the trade-off between sentence shortness and n-gram precision seems to work in favour of the final score, where afterwards the brevity penalty simply punishes too much for BLEU to be in a competitive range. 
 
 
 # Understanding the Code
